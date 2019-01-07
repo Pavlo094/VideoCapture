@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<!-- Select a Product Configuration -->
+		<InstallShieldProductConfiguration>Express</InstallShieldProductConfiguration>
+		<!-- Select a Visual Studio Configuration / InstallShield Release -->
+		<Configuration>Debug</Configuration>
+		<InstallShieldRelease>$(Configuration)</InstallShieldRelease>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- The InstallShieldProject item selects the project to build -->
+		<InstallShieldProject Include="$(MSBuildProjectDirectory)\$(MSBuildProjectName).isl"/>
+		<!-- The InstallShieldReleaseFlags sets Release Flags -->
+		<!--<InstallShieldReleaseFlags Include=""/>-->
+		<!-- The InstallShieldMergeModulePath specifies what directories are
+		searched for Merge Modules -->
+		<!--<InstallShieldMergeModulePath Include=""/>-->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The ProjectReference items refer to any Visual Studio solutions you want to automatically probe for Project Output Groups.  -->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The TaggedOutputs items allow you to explicitly add extra files to output groups. Each item must include both Name and OutputGroup, as well as TargetPath metadata values. -->
+		<!--<TaggedOutputs Include="C:\My Test Exe.exe">
+			<Name>My Test Project</Name>
+			<OutputGroup>Primary output</OutputGroup>
+			<TargetPath>My Test Exe.exe</TargetPath>
+		</TaggedOutputs> -->
+	</ItemGroup>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2015Limited\InstallShield.targets"/>
+	<ItemGroup>
+		<ProjectReference Include="..\AudioDownMixer\AudioDownMixer.vcxproj">
+			<Name>AudioDownMixer</Name>
+			<Project>{010A0C05-7822-4821-ACE7-A0B770A10522}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Audio_Mixer\Audio_Mixer.vcxproj">
+			<Name>AudioMixer</Name>
+			<Project>{7A2C5E95-E184-4524-87B8-EE41AEF97570}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\BTFP Video Encoding\BTFP Video Encoding.csproj">
+			<Name>BTFP Video Encoding</Name>
+			<Project>{6E5F03E6-4212-4EA9-81ED-2BC08E025EFD}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\BTFPVideoEncodingControls\BTFPVideoEncodingControls.csproj">
+			<Name>BTFPVideoEncodingControls</Name>
+			<Project>{A9444F91-FE81-4D3A-AB5A-A5197BF1E050}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\BTFPVideoEncodingLib\BTFPVideoEncodingLib.csproj">
+			<Name>BTFPVideoEncodingLib</Name>
+			<Project>{44257EBE-9709-4247-B9E5-935C7BA64F89}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Channel Downmixer\StereoDownmixer.vcxproj">
+			<Name>ChannelDownmixer</Name>
+			<Project>{8808E4CD-909C-4DBD-9C79-097FD0A22090}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\DeckLink\DeckLink.vcxproj">
+			<Name>DeckLink</Name>
+			<Project>{96F3941A-F531-4BEC-9E55-2A30D4A3FBC4}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Decklink Capture\Decklink Capture.csproj">
+			<Name>Decklink Capture</Name>
+			<Project>{0C0E3537-0A66-4E4A-8C22-880BF4E18856}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\DecklinkCaptureLib\DecklinkCaptureLib.csproj">
+			<Name>DecklinkCaptureLib</Name>
+			<Project>{C2B5854F-D71B-4BB4-AA6C-A6A6BD4D09CF}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\DirectShow Lib\DirectShowLib-2008.csproj">
+			<Name>DirectShowLib-2008</Name>
+			<Project>{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\MediaFoundation\MediaFoundation-2010.csproj">
+			<Name>MediaFoundation-2010</Name>
+			<Project>{B78C0F3B-071A-4FD2-829D-7A67E0F7BD1C}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\WavMeterEx\WavMeterEx.vcxproj">
+			<Name>WavMeterEx</Name>
+			<Project>{0D5F07AA-AACF-44E6-A71F-286483BDDEEE}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\mm_aac_src_1.0.0.1\encoder_aac.vcxproj">
+			<Name>encoder_aac</Name>
+			<Project>{56DEF241-2771-487C-BD9A-1E03244A33A2}</Project>
+		</ProjectReference>
+	</ItemGroup>
+</Project>

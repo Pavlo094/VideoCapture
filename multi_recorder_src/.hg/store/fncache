@@ -1,0 +1,2136 @@
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.netcf20.csproj.i
+data/3rd party/libP7/Tests/Trace/Trace.vcxproj.i
+data/3rd party/NLog-master/src/LocalTestRun.testrunconfig.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/12-7-2017 02-00-06.txt.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/Interm/_IsIcoRes.Exe.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Mail/Buffered/Example.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/ISocket.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/Properties/AssemblyInfo.cs.i
+data/BTFP Source/Decklink Capture/Resources/configuration.png.i
+data/3rd party/graphstudio-master.zip.i
+data/3rd party/graphstudio-master.zip.d
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net40-client/PasswordTextBoxControl.dll.i
+data/BTFP Source/BaseClasses/wxdebug.cpp.i
+data/3rd party/NLog-master/tools/Installer/TopBanner.bmp.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebCSharpEmptyNLogConfig.zip.i
+data/3rd party/NLog-master/tools/RunXap/RunXap.sln.i
+data/3rd party/NLog-master/src/Docs/Frameworks/Mono 2.x.shfbproj.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386_WithoutInstaller.7z.i
+data/BTFP Source/BTFPVideoEncodingControls/frmAudioMap.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/DatabaseCommandInfo.cs.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386_WithoutInstaller.7z.d
+data/BTFP Source/BaseClasses/seekpt.h.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/WP7/LICENSE.txt.i
+data/3rd party/NLog-master/src/NLog/NLog.doc.csproj.i
+data/3rd party/NLog-master/src/NLog/Filters/FilterResult.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebVisualBasicFileNLogConfig.zip.i
+data/3rd party/NLog-master/examples/web/GetCurrentClassLogger.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/PostFilteringWrapper/NLog.config.i
+data/BTFP Source/MediaFoundation/MFIdl.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/videoctl.h.i
+data/3rd party/NLog-master/src/NLogC/AssemblyInfo.cpp.i
+data/BTFP Source/DeckLink/stdafx.cpp.i
+data/BTFP Source/MediaFoundation/MFObjects.cs.i
+data/3rd party/libP7/Sources/PacketsPool.h.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/Properties/WMAppManifest.xml.i
+data/BTFP Source/DeckLink/DecklLinkSource.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/mtype.h.i
+data/3rd party/NLog-master/src/NLog/Config/NameBaseAttribute.cs.i
+data/3rd party/NLog-master/examples/web/benchmark_log4net.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/All_Targets.sln.i
+data/3rd party/libP7/Headers/P7_Trace.h.i
+data/3rd party/x264/x264_types.h.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/ProcessIdLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/makeproject.pl.i
+data/3rd party/NLog-master/tools/MergeApiXml/MergeApiXml.sln.i
+data/BTFP Source/packages/SimplePassword.dll.1.0/SimplePassword.dll.1.0.nupkg.i
+data/BTFP Source/AVPushSource/AVPushInterfaces_h.h.i
+data/BTFP Source/Common/includes/DeckLinkAPIStreaming_v10_8.idl.i
+data/BTFP Source/Decklink Capture/Resources/pause.png.i
+data/3rd party/libP7/Examples/Cpp/makefile.i
+data/3rd party/NLog-master/tools/DumpTestResultSummary/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Config/IncludeTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/RichTextBox.WordColoring.csproj.i
+data/BTFP Source/BaseClasses/baseclasses.vcproj.7.00.old.i
+data/BTFP Source/Decklink Capture/frmAbout.Designer.cs.i
+data/BTFP Source/AVPushSource/DecklinkPushSource.cpp.i
+data/BTFP Source/VideoDevice/ReadMe.txt.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PAtomic.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/GetLoggerTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/MethodCall/NLog.config.i
+data/BTFP Source/DirectShow Lib/other.cs.i
+data/BTFP Source/packages/NLog.4.3.3/lib/net35/NLog.dll.d
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/content/net40/_._.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Mail/Simple/Example.cs.i
+data/BTFP Source/packages/NLog.4.3.3/lib/net35/NLog.dll.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Config/CaseSensitivityTests.cs.i
+data/BTFP Source/WavMeterEx/WavMeterEx.vcxproj.filters.i
+data/BTFP Source/BTFPVideoEncodingControls/ctrlEncodingParams.resx.i
+data/BTFP Source/VideoDevice/VideoDevice.idl.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/1-12-2018 08-51-35.txt.i
+data/BTFP Source/DecklinkWrapperTest/Properties/Settings.settings.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/seekpt.h.i
+data/3rd party/Dependecies/msvcr80.dll.d
+data/3rd party/NLog-master/tools/SyncProjectItems/SyncProjectItems.csproj.i
+data/3rd party/Dependecies/msvcr80.dll.i
+data/BTFP Source/DeckLink/DeckLinkFilterConfigPage.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MethodCall/Simple/Example.cs.i
+data/BTFP Source/DecklinkWrapperTest/Properties/Resources.resx.i
+data/BTFP Source/DirectShow Lib/DirectShowLib-2008.sln.i
+data/3rd party/NLog-master/tests/NLog.ComInteropTests/Deploy.cmd.i
+data/3rd party/GDCL mp4 Demux (new)/mp4mux.dll.i
+data/3rd party/GDCL mp4 Demux (new)/mp4mux.dll.d
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Multiple2/File.Multiple2.sln.i
+data/3rd party/NLog-master/examples/web/article2.cs.i
+data/3rd party/NLog-master/tests/CreateTestUsers.cmd.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/WrapperTargetBaseTests.cs.i
+data/BTFP Source/DecklinkCaptureLib/Filters/AudioChannelSplitter.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/File/Simple/NLog.config.i
+data/BTFP Source/MediaFoundation/MediaFoundation.snk.i
+data/3rd party/NLog-master/examples/targets/Configuration File/File/Multiple2/NLog.config.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/BaseDirLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/web/GetLogger.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/FormHelper.cs.i
+data/3rd party/NLog-master/tests/NLogC.UnitTests/NLogC.UnitTests.cpp.i
+data/BTFP Source/packages/NLog.4.3.3/lib/sl5/NLog.dll.i
+data/BTFP Source/packages/Xander.PasswordValidator.1.0.1/Xander.PasswordValidator.1.0.1.nupkg.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/native/ARM/ClrCompression.winmd.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PConsole.h.i
+data/BTFP Source/packages/NLog.4.3.6/lib/sl4/NLog.dll.i
+data/3rd party/NLog-master/src/NLog/Targets/ChainsawTarget.cs.i
+data/BTFP Source/DirectShow Lib/mmstream.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Multiple/File.Multiple.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetTrace/web.config.i
+data/BTFP Source/BTFPVideoEncodingLibTest/Form1.cs.i
+data/3rd party/NLog-master/src/NLog.doc.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/BufferingWrapper/Simple/BufferingWrapper.csproj.i
+data/3rd party/libP7/Examples/Cpp/Cpp_Example.vcxproj.filters.i
+data/BTFP Source/BaseClasses/reftime.h.i
+data/BTFP Source/BTFP Video Encoding/frmAbout.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/.gitignore.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.monodevelop.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Wrappers/TrimWhiteSpaceTests.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/LoggerNameLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog.wp7.sln.i
+data/3rd party/NLog-master/examples/NLogDemo/Default.aspx.designer.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/binaries/mmaaced.ax.d
+data/BTFP Source/BTFPVideoEncodingLib/Filters/MP4DemuxFilter.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/binaries/mmaaced.ax.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebCSharpConsoleNLogConfig.zip.i
+data/3rd party/NLog-master/src/NLog/NLog.monodevelop.csproj.i
+data/3rd party/libP7/Sources/targetver.h.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/native/ARM/ClrCompression.dll.i
+data/3rd party/NLog-master/src/NLog.Extended/NLog.Extended.doc.csproj.i
+data/BTFP Source/BTFP Video Encoding/ctrlEncodingJobList.cs.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v7_3.idl.i
+data/BTFP Source/Common/includes/DeckLinkAPIVersion.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/Properties/Settings.Designer.cs.i
+data/BTFP Source/packages/NLog.4.3.3/lib/Xamarin.iOS10/NLog.xml.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Trace/Simple/Example.cs.i
+data/3rd party/NLog-master/src/NuGet/NLog.Config/content/NLog.config.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.wp7.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/AsyncHelperTests.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/build/wp8/Microsoft.Bcl.Compression.targets.i
+data/BTFP Source/BTFPVideoEncodingLib/packages.config.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PFile.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4.VC.VC.opendb.i
+data/3rd party/NLog-master/examples/web/article1.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/RichTextBoxWordColoringRule.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/PerfCounter/Simple/Example.cs.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/InheritFromLogger/InheritFromLogger.sln.i
+data/BTFP Source/mm_aac_src_1.0.0.1/3rd/lib/libfaac.lib.i
+data/3rd party/Windows Media Lib/src/AssemblyInfo.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/Form1.Designer.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/winctrl.cpp.i
+data/BTFP Source/BTFP Video Encoding/frmConfiguration.resx.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/RepeatingTargetWrapperTests.cs.i
+data/3rd party/NLog-master/src/NLog/Layouts/Log4JXmlEventLayout.cs.i
+data/BTFP Source/BaseClasses/activex.ver.i
+data/3rd party/libP7/Examples/C/C_Example.vcxproj.filters.i
+data/3rd party/Dependecies/mfc100u.dll.i
+data/3rd party/Dependecies/mfc100u.dll.d
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/MuxFilter.cpp.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net451/PasswordTextBoxControl.dll.i
+data/BTFP Source/Audio_Mixer/Audio_Mixer.vcxproj.i
+data/3rd party/NLog-master/src/NLog/Internal/Win32FileNativeMethods.cs.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386_WithoutInstaller/MediaInfo_InfoTip_UnRegister.bat.i
+data/3rd party/NLog-master/src/NLog/Targets/FormControlTarget.cs.i
+data/BTFP Source/DirectShow Lib/DirectShowLib.sln.i
+data/3rd party/NLog-master/src/NLog/Internal/SingleCallContinuation.cs.i
+data/3rd party/NLog-master/src/NLogC/NLogC.cpp.i
+data/3rd party/NLog-master/tests/SilverlightApp/MainPage.xaml.i
+data/3rd party/NLog-master/src/NLog/Targets/DatabaseParameterInfo.cs.i
+data/BTFP Source/Decklink Capture/Resources/MultichannelVideoCapture_Icon.png.i
+data/3rd party/NLog-master/src/Docs/EditDocs.cmd.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionTokenType.cs.i
+data/BTFP Source/Decklink Capture/Resources/pointer_up.bmp.i
+data/3rd party/NLog-master/src/NLog/Config/StackTraceUsage.cs.i
+data/3rd party/NLog-master/src/NLog.sl3.vs2008.sln.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/RunnerForm.cs.i
+data/BTFP Source/Channel Downmixer/iStereoDownmixer.h.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/NetworkSender.cs.i
+data/3rd party/NLog-master/examples/web/MyFirstLayoutRenderer.cs.i
+data/3rd party/NLog-master/tests/NLog.Test/NLog.Test.csproj.i
+data/BTFP Source/DeckLink/DeckLink.aps.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/FileNLogConfig/MyTemplate.vstemplate.i
+data/BTFP Source/BaseClasses/renbase.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RepeatingWrapper/Simple/RepeatingWrapper.sln.i
+data/3rd party/NLog-master/tools/DeployNetCF/DeployNetCF.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetTrace/test.aspx.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/combase.cpp.i
+data/3rd party/NLog-master/tests/NLog.UnitTests.Web/NLog.UnitTests.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/SplitGroupTargetTests.cs.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/XapHost4.html.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PLock.h.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/TrimWhiteSpaceLayoutRendererWrapper.cs.i
+data/3rd party/NLog-master/src/NLog/Layouts/LayoutWithHeaderAndFooter.cs.i
+data/3rd party/NLog-master/src/NLog/Filters/WhenNotEqualFilter.cs.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.sl4.csproj.i
+data/BTFP Source/Decklink Capture.sln.i
+data/3rd party/NLog-master/tools/DumpTestResultSummary/AnalysisMode.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ColoredConsole/Simple/Example.cs.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/WP7/Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll.i
+data/BTFP Source/Decklink Capture/packages.config.i
+data/BTFP Source/DeinterlaceFilter/DeinterlaceFilter.cpp.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/RandomizeGroupTargetTests.cs.i
+data/3rd party/NLog-master/tools/Installer/Help.ico.i
+data/3rd party/NLog-master/src/InstallNLogConfig/InstallNLogConfig.netfx40.csproj.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/fourcc.h.i
+data/3rd party/NLog-master/src/NLog/Internal/CompactFrameworkHelper.cs.i
+data/BTFP Source/BaseClasses/transfrm.h.i
+data/3rd party/NLog-master/src/NLog/Config/InstallationContext.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Filters/WhenContainsTests.cs.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/NLog.config.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Template.csproj.i
+data/3rd party/NLog-master/src/NLog/Internal/FileAppenders/MutexMultiProcessFileAppender.cs.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.dsp.i
+data/BTFP Source/DeckLink/Filter_i.c.i
+data/3rd party/NLog-master/examples/NLogReceiverForwarderService/Program.cs.i
+data/3rd party/NLog-master/tools/Installer/Background.bmp.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/RegistryTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RetryingWrapper/Simple/RetryingWrapper.csproj.i
+data/3rd party/NLog-master/tools/DeployNetCF/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/OutputDebugStringTarget.cs.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp/NLogSilverlightApp.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/CSV/File.CSV.csproj.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/seekpt.cpp.i
+data/3rd party/NLog-master/tests/NLog.VBTest/Module1.vb.i
+data/3rd party/NLog-master/src/NLog/NLog.netfx20.csproj.i
+data/BTFP Source/MediaFoundation/MFPlay.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/TemporaryIndexFile.h.i
+data/BTFP Source/packages/NLog.4.3.3/lib/sl4/NLog.dll.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/1-12-2018 08-51-11.txt.i
+data/BTFP Source/BaseClasses/winutil.cpp.i
+data/3rd party/LAV Audio/avutil-lav-55.dll.d
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/renbase.cpp.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionMessageExpression.cs.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/MicroHttpServer.cs.i
+data/3rd party/LAV Audio/avutil-lav-55.dll.i
+data/3rd party/NLog-master/src/NLog/Targets/MessageBoxTarget.cs.i
+data/BTFP Source/DirectShow Lib/DVDIf.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/FileInfoHelper.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/FileAppenders/RetryingMultiProcessFileAppender.cs.i
+data/3rd party/NLog-master/src/NLog/Config/INamedItemFactory.cs.i
+data/3rd party/NLog-master/src/Docs/Frameworks/Silverlight 4.0.shfbproj.i
+data/3rd party/libP7/Tests/Trace/Main.cpp.i
+data/BTFP Source/packages/NLog.4.3.3/lib/net35/NLog.xml.i
+data/3rd party/NLog-master/examples/targets/Screenshots/ColoredConsole/Word Highlighting.gif.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/Microsoft.Bcl.Build.1.0.14.nupkg.i
+data/BTFP Source/mm_aac_src_1.0.0.1/encoder_aac.rc.i
+data/BTFP Source/AVPushSource/dispatch.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Filters/APITests.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/SmtpAuthenticationMode.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Database/Oracle.OleDb/Database.Oracle.OleDb.sln.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Filters/WhenEqualTests.cs.i
+data/3rd party/NLog-master/tests/NLog.VBTest/App.config.i
+data/BTFP Source/DirectShow Lib/mpconfig.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/UrlHelper.cs.i
+data/3rd party/NLog-master/tools/DumpApiXml/DumpApiXml.sln.i
+data/BTFP Source/Common/includes/DeckLinkAPI.idl.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MethodCall/Simple/MethodCall.sln.i
+data/3rd party/NLog-master/src/NLog/Internal/ObjectGraphScanner.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/Form1.resx.i
+data/BTFP Source/MediaFoundation/misc.cs.i
+data/BTFP Source/Audio_Mixer/Audio_Mixer.vcproj.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v10_2.idl.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/tools/Uninstall.ps1.i
+data/3rd party/gdcl.co.uk-mpeg4-master.zip.d
+data/BTFP Source/UpgradeLog3.htm.i
+data/3rd party/gdcl.co.uk-mpeg4-master.zip.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/RunnerForm.Designer.cs.i
+data/BTFP Source/Decklink Capture/Properties/Settings.Designer.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Wrappers/OnExceptionTests.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/amfilter.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration File/WebService/WebService1/WebService1.sln.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LogReceiverService/LogReceiverForwardingServiceTests.cs.i
+data/3rd party/libP7/Tests/Trace/makefile.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup.isl.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/ddmm.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Console/Simple/Example.cs.i
+data/3rd party/NLog-master/tests/SilverlightApp/App.xaml.cs.i
+data/3rd party/NLog-master/tests/NLogC.UnitTests/targetver.h.i
+data/3rd party/NLog-master/examples/NLogDemo/gmailpassword.txt.i
+data/3rd party/NLog-master/src/NLog/Targets/MemoryTarget.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/WebService/WebService1/Properties/AssemblyInfo.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/resource.h.i
+data/BTFP Source/BaseClasses/strmctl.cpp.i
+data/3rd party/NLog-master/src/NLog/Internal/ISupportsInitialize.cs.i
+data/BTFP Source/DecklinkCaptureLib/Filters/LavVideo.cs.i
+data/BTFP Source/VideoDevice/VideoDevice.rc.i
+data/BTFP Source/BaseClasses/cache.h.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/Silverlight4.js.i
+data/BTFP Source/AudioDownMixer/AudioDownMixer.cpp.i
+data/BTFP Source/DirectShow Lib/VidPort.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/ConfigFiles/referencemissingfileignored.nlog.i
+data/3rd party/NLog-master/examples/targets/Configuration API/BufferingWrapper/Simple/BufferingWrapper.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/Form1.resx.i
+data/3rd party/NLog-master/src/NLog/Config/NLogXmlElement.cs.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PConsole.h.i
+data/3rd party/NLog-master/src/NLog/Internal/LoggerConfiguration.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LogManagerTests.cs.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PCRC32.h.i
+data/BTFP Source/DeckLink/DeckLinkAPI.tlb.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/MuxFilter.h.i
+data/BTFP Source/BTFP Video Encoding/Properties/Settings.settings.i
+data/BTFP Source/BTFP Video Encoding/frmAbout.resx.i
+data/3rd party/NLog-master/src/NLog.mono2.sln.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PTime.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RetryingWrapper/Simple/Example.cs.i
+data/BTFP Source/DirectShow Lib/EvCode.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/TimeTests.cs.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/NLogSilverlightAppTestPage.aspx.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Null/NLog.config.i
+data/3rd party/NLog-master/examples/targets/Configuration File/MessageBox/NLog.config.i
+data/3rd party/NLog-master/tools/RunXap.dll.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/12-7-2017 02-15-59.txt.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/ProcessInfoLayoutRenderer.cs.i
+data/3rd party/NLog-master/tools/RegisterAssemblyFolders.cmd.i
+data/BTFP Source/Audio_Mixer/AudioMixerOutputPin.h.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PMEvent.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/PostFilteringWrapper/Simple/PostFilteringWrapper.sln.i
+data/BTFP Source/DirectShow Lib/DirectShowLib-2008.csproj.i
+data/BTFP Source/mm_aac_src_1.0.0.1/resource.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/pstream.h.i
+data/BTFP Source/Decklink Capture/Resources/link.png.i
+data/BTFP Source/BaseClasses/baseclasses.vcxproj.filters.i
+data/BTFP Source/packages/NLog.4.3.3/NLog.4.3.3.nupkg.i
+data/3rd party/NLog-master/src/NLog/LogReceiverService/StringCollection.cs.i
+data/3rd party/NLog-master/tools/MakeNLogXSD/MakeNLogXSD.csproj.i
+data/BTFP Source/Decklink Capture/Properties/Resources.resx.i
+data/BTFP Source/mm_aac_src_1.0.0.1/encoder_aac.aps.i
+data/BTFP Source/AudioChannelSplitter/AudioChannelSplitter.vcxproj.filters.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/mp4demux.def.i
+data/3rd party/NLog-master/src/NLog/Internal/RuntimeOS.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Simple/File.sln.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/schedule.cpp.i
+data/3rd party/x264/mmx264.ax.d
+data/BTFP Source/DirectShow Lib/Control.cs.i
+data/BTFP Source/BTFP Video Encoding/frmEncodingInfo.Designer.cs.i
+data/BTFP Source/BaseClasses/ddmm.h.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/ImpersonatingTargetWrapper.cs.i
+data/3rd party/NLog-master/src/NLog/CustomDictionary.xml.i
+data/3rd party/NLog-master/src/NLog/LogReceiverService/WcfLogReceiverClient.cs.i
+data/3rd party/NLog-master/src/NLog/Config/ConfigurationItemCreator.cs.i
+data/BTFP Source/Decklink Capture/frmConfiguration.Designer.cs.i
+data/3rd party/NLog-master/examples/targets/Screenshots/RichTextBox/RowColoring.gif.i
+data/3rd party/NLog-master/examples/web/test.js.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/12-7-2017 02-24-20.txt.i
+data/3rd party/NLog-master/examples/targets/Configuration File/File/CSV/NLog.config.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/CallSiteTests.cs.i
+data/BTFP Source/BaseClasses/winutil.h.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/RepeatingTargetWrapper.cs.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.wp71.csproj.i
+data/3rd party/NLog-master/src/NLog/LogReceiverService/NLogEvent.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/DatabaseTarget.cs.i
+data/3rd party/libP7/Sources/ClTextSyslog.h.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PString.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4.sln.i
+data/3rd party/NLog-master/src/NLog/GlobalDiagnosticsContext.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MSMQ/Multiple Queues/MSMQ.Multiple Queues.csproj.i
+data/BTFP Source/mm_aac_src_1.0.0.1/encoder_aac.vcproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ColoredConsole/Simple/ColoredConsole.csproj.i
+data/3rd party/NLog-master/tests/SilverlightApp/Properties/OutOfBrowserSettings.xml.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/dllsetup.cpp.i
+data/3rd party/NLog-master/tests/NLogReceiverService/Program.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/ctlutil.cpp.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/ConsoleNLogConfig/__TemplateIcon.ico.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/EventLogTests.cs.i
+data/BTFP Source/Decklink Capture/Controls/Volume Trackbar/SingleTrackBar.Designer.cs.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionEvaluationException.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/wxutil.h.i
+data/3rd party/NLog-master/tests/NLogC.UnitTests/NLogC.UnitTests.netfx40.vcxproj.filters.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/GdcLayoutRenderer.cs.i
+data/3rd party/libP7/Shared/Lock.h.i
+data/3rd party/libP7/Sources/Client.cpp.i
+data/3rd party/x264/pthreadVC2.dll.i
+data/3rd party/NLog-master/examples/targets/Configuration File/FallbackGroup/NLog.config.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/MailTargetTests.cs.i
+data/3rd party/NLog-master/src/NLog/Logger.cs.i
+data/BTFP Source/BaseClasses/outputq.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Mail/Simple/NLog.config.i
+data/3rd party/NLog-master/examples/web/config9.nlog.i
+data/BTFP Source/DeckLink/DeckLinkVideoOutputPin.h.i
+data/3rd party/libP7/Examples/C#/Csharp_Example.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/RichTextBoxTargetTests.cs.i
+data/BTFP Source/UpgradeLog2.htm.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/amvideo.cpp.i
+data/BTFP Source/DeckLink/DeckLinkVideoDevice.cpp.i
+data/3rd party/NLog-master/tools/WebsiteFiles/NewInNLog2.png.i
+data/BTFP Source/WavMeter/WavMeter.cpp.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/AsyncTargetWrapperOverflowAction.cs.i
+data/3rd party/Windows Media Lib/src/wml.snk.i
+data/BTFP Source/BTFPVideoEncodingControls/BTFPVideoEncodingControls.csproj.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/RunnerForm.resx.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.sl4.csproj.i
+data/3rd party/NLog-master/tests/NLog.VBTest/NLog.VBTest.vbproj.i
+data/3rd party/Windows Media Lib/src/WindowsMediaNET-2005.sln.i
+data/3rd party/NLog-master/src/InstallNLogConfig/Program.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/native/x86/ClrCompression.dll.i
+data/3rd party/NLog-master/src/NLog/LogReceiverService/SoapLogReceiverClient.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/readme.txt.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.def.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/LongDateLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/LoggerWrapper/LoggerWrapper.sln.i
+data/3rd party/Audio Channel Downmixer/ChannelDownmixer.ax.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/1-11-2018 10-51-59.txt.i
+data/3rd party/Windows Media Lib/src/WMCore.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FallbackGroup/Simple/FallbackGroup.csproj.i
+data/3rd party/Dependecies/MFC80U.DLL.d
+data/3rd party/Dependecies/MFC80U.DLL.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/AsyncRequestQueueTests.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/Microsoft.Bcl.Compression.3.9.85.nupkg.i
+data/3rd party/NLog-master/src/NLog/NLog.wp7.csproj.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/Microsoft.Bcl.Compression.3.9.85.nupkg.d
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/NLogSilverlightApp.Web.csproj.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionNotExpression.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/Form1.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Asynchronous/Example.cs.i
+data/3rd party/Windows Media Lib/license.txt.i
+data/BTFP Source/BaseClasses/ctlutil.cpp.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/InstallContextLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RepeatingWrapper/Simple/Example.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/MSMQ/Multiple/NLog.config.i
+data/BTFP Source/BTFPVideoEncodingLibTest/BTFPVideoEncodingLibTest.csproj.i
+data/BTFP Source/Common/includes/VideoDevice.idl.i
+data/3rd party/NLog-master/examples/web/config7.nlog.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/AutoFlushTargetWrapperTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/RetryingTargetWrapperTests.cs.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PMEvent.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/DatabaseTargetTests.cs.i
+data/3rd party/NLog-master/tools/RunXap/Program.cs.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386_WithoutInstaller/MediaInfo_InfoTip_Register.bat.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Database/MSSQL/Database.MSSQL.csproj.i
+data/3rd party/NLog-master/tools/MakeNLogXSD/XsdFileGenerator.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/wp8/System.IO.Compression.xml.i
+data/BTFP Source/BTFP Video Encoding/Resources/OK.png.i
+data/3rd party/NLog-master/src/NLog/NLog.mono2.csproj.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/Module_i.c.i
+data/BTFP Source/Audio_Mixer/AudioMixer_i.h.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Database/MSSQL/drop_nlog_database.bat.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/EventContextLayoutRenderer.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Properties/WMAppManifest.xml.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/winutil.cpp.i
+data/3rd party/NLog-master/src/NLog.Extended/LayoutRenderers/AspNetApplicationValueLayoutRenderer.cs.i
+data/3rd party/libP7/Sources/ClTextSink.h.i
+data/3rd party/NLog-master/examples/web/config8a.nlog.i
+data/BTFP Source/VideoDevice/BaseVideoDevice.h.i
+data/BTFP Source/AudioChannelSplitter/AudioChannelSplitterOutputPin.h.i
+data/BTFP Source/WavMeterEx/WavMeterEx.vcxproj.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net35/PasswordTextBoxControl.dll.i
+data/BTFP Source/Decklink Capture/Properties/Settings.settings.i
+data/BTFP Source/BTFPVideoEncodingLibTest/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/src/InstallNLogConfig/Properties/AssemblyInfo.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/source/aac_filter.h.i
+data/3rd party/NLog-master/tools/generate_overloads.pl.i
+data/3rd party/NLog-master/src/NLog/Config/AppDomainFixedOutputAttribute.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/Global.asax.i
+data/3rd party/NLog-master/examples/targets/Configuration File/WebService/NLog.config.i
+data/3rd party/NLog-master/src/NLog/MDC.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/Web.config.i
+data/BTFP Source/BTFP Video Encoding/Resources/UnauthorizedUseLogo.png.i
+data/BTFP Source/WavMeterEx/WavMeter.cpp.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/msgthrd.h.i
+data/BTFP Source/Decklink Capture/Resources/Radix logo.png.i
+data/BTFP Source/Decklink Capture/Resources/UnauthorizedUseLogo.png.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/baseclasses.vcxproj.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PCRC32.h.i
+data/BTFP Source/BaseClasses/refclock.cpp.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/wxutil.cpp.i
+data/3rd party/NLog-master/src/NLog/ComInterop/ComLogManager.cs.i
+data/BTFP Source/BaseClasses/combase.cpp.i
+data/BTFP Source/BTFPVideoEncodingLib/Filters/LavVideo.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/ParseBuffer.h.i
+data/3rd party/NLog-master/examples/NLogDemo/style.css.i
+data/BTFP Source/DeckLink/DeckLink.vcproj.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/Properties/AssemblyInfo.cs.i
+data/BTFP Source/MediaFoundation/mfmp2dlna.cs.i
+data/3rd party/libP7/License.txt.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/FileContentsLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/NetworkTarget.cs.i
+data/BTFP Source/Decklink Capture/SystemResources.cs.i
+data/3rd party/libP7/P7.opensdf.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/WindowsIdentityLayoutRenderer.cs.i
+data/BTFP Source/Decklink Capture/Properties/AssemblyInfo.cs.i
+data/BTFP Source/VideoDevice/BaseVideoDeviceMode.cpp.i
+data/3rd party/Windows Media Lib/lib/WindowsMediaLib.dll.i
+data/3rd party/libP7/Examples/C#/Program.cs.i
+data/3rd party/GDCL mp4 Demux (new)/mp4demux.dll.d
+data/BTFP Source/mm_aac_src_1.0.0.1/binaries/mmaaced.ilk.d
+data/BTFP Source/BaseClasses/schedule.cpp.i
+data/3rd party/NLog-master/src/InstallNLogConfig/InstallNLogConfig.netfx35.csproj.i
+data/3rd party/NLog-master/tools/BuildDocPages/Program.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/source/aac_prop.cpp.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/FilteringRule.cs.i
+data/3rd party/libP7/Shared/Ticks.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.netfx40.csproj.i
+data/3rd party/NLog-master/src/NLog/ComInterop/IComLogManager.cs.i
+data/3rd party/NLog-master/tests/NLog.ComInteropTests/Deploy.netfx35.cmd.i
+data/BTFP Source/AVPushSource/DecklinkVideoSource.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Mail/Buffered/Mail.Buffered.sln.i
+data/3rd party/NLog-master/src/NLog/Layouts/LayoutParser.cs.i
+data/BTFP Source/BaseClasses/baseclasses.sln.old.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionTokenizer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ColoredConsole/Word Highlighting/Example.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/UdpNetworkSender.cs.i
+data/BTFP Source/BaseClasses/baseclasses.vcproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Trace/Simple/Trace.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Network/Simple/Example.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/baseclasses.dsw.i
+data/3rd party/NLog-master/examples/targets/Screenshots/RichTextBox/Simple.gif.i
+data/3rd party/NLog-master/src/NuGet/NLog.Config/tools/Install.ps1.i
+data/3rd party/libP7/Examples/C/makefile.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/VisualBasicConsoleNLogConfig.zip.i
+data/BTFP Source/AudioDownMixer/AudioDownMixer.def.i
+data/3rd party/NLog-master/src/NLog/Targets/WebServiceProtocol.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/NullTarget.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Simple/Example.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/MySmtpClient.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebVisualBasicEmptyNLogConfig.zip.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PFileSystem.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/ShortDateTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/SplashScreenImage.jpg.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Trace/Simple/Trace.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Chainsaw/NLog.config.i
+data/3rd party/NLog-master/examples/NLogReceiverForwarderService/NLog.config.i
+data/BTFP Source/VideoDevice/stdafx.cpp.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Wrappers/XmlEncodeTests.cs.i
+data/BTFP Source/BTFP Video Encoding Setup/BTFP Video Encoding Setup.isproj.i
+data/BTFP Source/BTFP Video Encoding/Utils.cs.i
+data/3rd party/NLog-master/examples/NLogReceiverForwarderService/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/NLogViewer/Simple/Example.cs.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp/Properties/AssemblyInfo.cs.i
+data/3rd party/libP7/Sources/Proxy.cpp.i
+data/BTFP Source/Decklink Capture/Controls/Vu Meter/ucVUMeter.resx.i
+data/3rd party/NLog-master/examples/targets/Screenshots/Network/Output.gif.i
+data/3rd party/NLog-master/tools/WebsiteFiles/SilverlightSupport.png.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/Properties/Resources.Designer.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/3rd/lib/libfaacd.lib.i
+data/3rd party/NLog-master/src/VSIntegration/Snippets/VBLogger.snippet.i
+data/3rd party/NLog-master/tools/MergeApiXml/app.config.i
+data/3rd party/NLog-master/src/NLog/ProjectFileInfo.xml.i
+data/BTFP Source/VideoDevice/VideoDevice.def.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/EmptyNLogConfig/MyTemplate.vstemplate.i
+data/3rd party/NLog-master/src/NLog/Filters/Filter.cs.i
+data/BTFP Source/BaseClasses/amvideo.cpp.i
+data/BTFP Source/DirectShow Lib/amstream.cs.i
+data/BTFP Source/BTFP Video Encoding/Resources/pause.png.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/CSharpConsoleNLogConfig.zip.i
+data/3rd party/NLog-master/src/NLog/Targets/TraceTarget.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/3rd/include/faaccfg.h.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/Silverlight.js.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/baseclasses.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/RichTextBox.RowColoring.sln.i
+data/3rd party/NLog-master/src/NLog/LogFactory-T.cs.i
+data/3rd party/Windows Media Lib/WhatsNew.txt.i
+data/BTFP Source/Common/includes/DeckLinkAPIDiscovery.idl.i
+data/BTFP Source/DirectShow Lib/Mpeg2Structs.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/baseclasses.vcproj.7.00.old.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/ConsoleNLogConfig/NLog.config.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/12-7-2017 02-23-43.txt.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/EmptyNLogConfig/__TemplateIcon.ico.i
+data/BTFP Source/Decklink Capture/Resources/trim_video1.png.i
+data/3rd party/NLog-master/examples/targets/Configuration File/File/Archive4/NLog.config.i
+data/3rd party/Windows Media Lib/docs/interfaces.txt.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v7_1.idl.i
+data/3rd party/NLog-master/examples/targets/Configuration File/RichTextBox/RowColoring/NLog.config.i
+data/3rd party/NLog-master/examples/targets/Configuration File/WebService/WebService1/WebService1.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive1/File.Archive1.sln.i
+data/3rd party/libP7/Documentation/P7.pdf.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/EventContextTests.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/NALUnit.cpp.i
+data/3rd party/libP7/Examples/C/C_Example.vcxproj.i
+data/3rd party/libP7/Headers/P7_Client.h.i
+data/BTFP Source/BaseClasses/baseclasses.sln.i
+data/BTFP Source/Decklink Capture/Controls/RangeBar/RangeBar.resx.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/LoggerWrapper/LoggerWrapper.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/ThreadNameTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/RichTextBox.sln.i
+data/BTFP Source/BaseClasses/dllsetup.cpp.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/videoctl.cpp.i
+data/BTFP Source/BTFP Video Encoding Setup/BTFP Video Encoding Setup/Express/SingleImage/LogFiles/errorMSI.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/12-7-2017 02-21-59.txt.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/CSharpEmptyNLogConfig.zip.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/CounterLayoutRenderer.cs.i
+data/BTFP Source/Decklink Capture/Controls/Volume Trackbar/SixChannelTrackbar.cs.i
+data/BTFP Source/DirectShow Lib/DevEnum.cs.i
+data/BTFP Source/AVPushSource/AVPushSource.vcxproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests.Web/ASPNetTests.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/COPYING.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/StdAfx.cpp.i
+data/BTFP Source/BTFP Video Encoding Setup/BTFP Video Encoding Setup/Express/SingleImage/LogFiles/error.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/ProjectFileInfo.xml.i
+data/3rd party/NLog-master/tools/MakeNLogXSD/TemplateXSD.xml.i
+data/BTFP Source/DecklinkCaptureLib/DecklinkCaptureLib.cs.i
+data/BTFP Source/BTFPVideoEncodingLib/NativeHelpers.cs.i
+data/BTFP Source/DeckLink/Filter.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/PerfCounter/Simple/PerfCounter.csproj.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/Properties/AssemblyInfo.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/wxlist.h.i
+data/BTFP Source/mm_aac_src_1.0.0.1/encoder_aac.sln.i
+data/BTFP Source/BaseClasses/dsschedule.h.i
+data/3rd party/NLog-master/src/NLog/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/LiteralTests.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/source/aac_prop.h.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionLayoutExpression.cs.i
+data/BTFP Source/Decklink Capture/Controls/Volume Trackbar/PointerControl.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LogReceiverService/LogReceiverServiceTests.cs.i
+data/BTFP Source/packages/NLog.4.3.3/lib/wp8/NLog.xml.i
+data/3rd party/NLog-master/src/NLog/Config/LoggingConfigurationChangedEventArgs.cs.i
+data/BTFP Source/packages/NLog.4.3.6/lib/net40/NLog.dll.d
+data/BTFP Source/BTFPVideoEncodingLib/FilterGraphTools.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/outputq.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RoundRobinGroup/Simple/Example.cs.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PCrashDump.h.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.netfx40.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/Properties/Settings.settings.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MSMQ/Multiple Queues/MSMQ.Multiple Queues.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Memory/Simple/Memory.sln.i
+data/BTFP Source/BaseClasses/baseclasses.vcproj.8.00.old.i
+data/BTFP Source/Decklink Capture/frmExporting.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/Target.cs.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/XapHost2.html.i
+data/BTFP Source/VideoDevice/VideoDevice.vcxproj.i
+data/3rd party/NLog-master/examples/NLogDemo/NLog.config.i
+data/BTFP Source/DeinterlaceFilter/DeinterlaceFilter.vcxproj.i
+data/BTFP Source/BaseClasses/transfrm.cpp.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Properties/OutOfBrowserSettings.xml.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/TempDirLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLogC/NLogC.netfx40.vcxproj.i
+data/3rd party/libP7/Shared/IFile.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/smartptr.h.i
+data/3rd party/aac/aac_types.h.i
+data/BTFP Source/Decklink Capture/frmVideoTrimmer.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/winctrl.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Memory/Simple/Memory.csproj.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/SL2/Microsoft.Silverlight.Testing.dll.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Network/Simple/Network.csproj.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/streams.h.i
+data/BTFP Source/DeckLink/DeckLinkVideoDevice.h.i
+data/3rd party/NLog-master/src/NLog/Common/AsynchronousAction.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/FormControl.csproj.i
+data/3rd party/NLog-master/src/NLog/Targets/ArchiveNumberingMode.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/activex.ver.i
+data/3rd party/NLog-master/src/NLog/LogManager.cs.i
+data/3rd party/NLog-master/src/NLog.sl3.vs2010.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/WebService/Simple/WebService1/Web.config.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/VisualBasicEmptyNLogConfig.zip.i
+data/3rd party/NLog-master/src/NLog/Config/DefaultParameterAttribute.cs.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PAtomic.h.i
+data/BTFP Source/DecklinkCaptureLib/Filters/IMonogramAAC.cs.i
+data/BTFP Source/Decklink Capture/Program.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Multiple/File.Multiple.csproj.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PThreadShell.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetTrace/README.txt.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/AssemblyInfo.cs.i
+data/3rd party/NLog-master/tests/NLog.ComInteropTests/NLog.ComInteropTest.js.i
+data/3rd party/NLog-master/examples/targets/Configuration API/WebService/Simple/WebService1/Service1.asmx.cs.i
+data/BTFP Source/packages/NLog.4.3.6/NLog.4.3.6.nupkg.d
+data/3rd party/NLog-master/tests/SampleExtensions/NLogTests.snk.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.netcf20.csproj.i
+data/BTFP Source/packages/NLog.4.3.6/NLog.4.3.6.nupkg.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/BufferingTargetWrapperTests.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/NALUnit.h.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/SL3/Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive3/File.Archive3.csproj.i
+data/3rd party/libP7/Headers/P7_Telemetry.h.i
+data/3rd party/yuv codecs/yuvcodecs-1.3.exe.i
+data/3rd party/libP7/Shared/IJournal.h.i
+data/BTFP Source/BaseClasses/msgthrd.h.i
+data/BTFP Source/Decklink Capture/Controls/Volume Trackbar/PointerControl.resx.i
+data/BTFP Source/AVPushSource/DecklinkPushSource.h.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PSocket.h.i
+data/3rd party/NLog-master/tools/Installer/build.cmd.i
+data/BTFP Source/Decklink Capture/Controls/Vu Meter/ucBase.resx.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/RichTextBox.RowColoring.csproj.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.rc.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/portable-net45+wp8+wpa81/System.IO.Compression.xml.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/ConfigFileLocatorTests.cs.i
+data/3rd party/NLog-master/tools/DumpTestResultSummary/MSTestResultsFileAnalyzer.cs.i
+data/3rd party/NLog-master/examples/web/config1.nlog.i
+data/BTFP Source/AudioChannelSplitter/AudioChannelSplitter.cpp.i
+data/BTFP Source/Audio_Mixer/Audio_Mixer.vcxproj.filters.i
+data/BTFP Source/DeckLink/DeckLink.vcxproj.i
+data/3rd party/NLog-master/tools/WebsiteFiles/NetFxSupport.png.i
+data/3rd party/NLog-master/src/NLog/Config/LoggingConfiguration.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/LongDateTests.cs.i
+data/3rd party/NLog-master/src/NLog/Filters/LayoutBasedFilter.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebCSharpLogReceiverNLogConfig.zip.i
+data/BTFP Source/BTFPVideoEncodingControls/ctrlEncodingParams.Designer.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/RichTextBoxTarget.cs.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/SilverlightApplicationInfoLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/Win32ThreadIDHelper.cs.i
+data/3rd party/NLog-master/src/NLog.proj.i
+data/BTFP Source/AVPushSource/AVPushSource.vcxproj.filters.i
+data/3rd party/NLog-master/tools/MakeNLogXSD/MakeNLogXSD.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/CSV/Example.cs.i
+data/BTFP Source/DecklinkCaptureLib/FilterGraphTools.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/NLogViewerNLogConfig/NLog.config.i
+data/.hglf/1_11 CAP_TEST/Jan_11_Test.mp4.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/native/x86/ClrCompression.winmd.i
+data/3rd party/NLog-master/src/NLog/Internal/PortableFileInfoHelper.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/EnvironmentLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/WebService/Simple/WebService1/Service1.asmx.i
+data/BTFP Source/AudioMultiTrackDownMixer/AudioMultiTrackDownMixer.h.i
+data/3rd party/NLog-master/examples/web/article3.nlog.i
+data/3rd party/NLog-master/examples/NLogDemo/Scripts/jquery-1.4.1.min.js.i
+data/3rd party/NLog-master/src/NLog/Internal/FactoryHelper.cs.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net45/PasswordTextBoxControl.dll.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/TargetTests.cs.i
+data/3rd party/NLog-master/README.rdoc.i
+data/3rd party/NLog-master/src/NuGet/NLog.Config/NLog.Config.nuspec.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/ShortDateLayoutRenderer.cs.i
+data/BTFP Source/BTFPVideoEncodingControls/ctrlAudioChannel.Designer.cs.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp/ServiceReferences.ClientConfig.i
+data/3rd party/NLog-master/src/NLog/Targets/PerformanceCounterTarget.cs.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionAndExpression.cs.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/Reports/1-12-2018 08-49-46.htm.i
+data/BTFP Source/MediaFoundation/MFReadWrite.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/VisualBasicLogReceiverNLogConfig.zip.i
+data/BTFP Source/BTFP Video Encoding/Form2.Designer.cs.i
+data/3rd party/NLog-master/src/NLog/Common/LogEventInfoBuffer.cs.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PJournal.h.i
+data/3rd party/NLog-master/tests/NLogC.UnitTests/NLogC.UnitTests.netfx40.vcxproj.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/LoggerWrapper/Program.cs.i
+data/3rd party/NLog-master/src/NLog/Config/IInstallable.cs.i
+data/3rd party/NLog-master/tools/Installer/License.rtf.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/FallbackGroupTarget.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Simple/File.csproj.i
+data/BTFP Source/Channel Downmixer/StereoDownmixerPropP1.cpp.i
+data/3rd party/NLog-master/examples/web/config2.nlog.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.sl2.csproj.i
+data/3rd party/NLog-master/examples/NLogDemo/Web.Release.config.i
+data/3rd party/NLog-master/tests/NLog.ComInteropTests/Deploy.netfx40.cmd.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/FilteringTargetWrapper.cs.i
+data/3rd party/NLog-master/src/NLogC/NLogC.h.i
+data/BTFP Source/Decklink Capture/Controls/Volume Trackbar/SingleTrackBar.resx.i
+data/3rd party/NLog-master/src/NLog.Extended/GlobalSuppressions.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/Form1.Designer.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests.Web/NLogWebTestBase.cs.i
+data/3rd party/NLog-master/src/NLog.netfx40.vsmdi.i
+data/BTFP Source/BTFP Video Encoding/Properties/Resources.Designer.cs.i
+data/BTFP Source/DecklinkCaptureLib/Filters/DSUtils.cs.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/XapHost3.html.i
+data/3rd party/NLog-master/src/NLog/NLog.sl3.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration File/File/Multiple/NLog.config.i
+data/BTFP Source/Decklink Capture/Controls/Vu Meter/ucBase.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/transfrm.cpp.i
+data/3rd party/NLog-master/build/README.txt.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionLiteralExpression.cs.i
+data/3rd party/NLog-master/tools/DumpApiXml/Program.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/ReplaceLayoutRendererWrapper.cs.i
+data/BTFP Source/AudioMultiTrackDownMixer/AudioMultiTrackDownMixer_i.h.i
+data/BTFP Source/Channel Downmixer/StereoDownmixerPropP3.h.i
+data/3rd party/NLog-master/examples/targets/Configuration File/File/Archive3/NLog.config.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebVisualBasicLogReceiverNLogConfig.zip.i
+data/3rd party/NLog-master/src/NLog/Internal/TimeoutContinuation.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/PropertyHelper.cs.i
+data/3rd party/NLog-master/tests/NLogReceiverService/SocketPolicyServer.cs.i
+data/3rd party/NLog-master/examples/web/config5.nlog.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/Properties/Settings.settings.i
+data/3rd party/NLog-master/tools/zip.exe.i
+data/3rd party/LAV Audio/avfilter-lav-6.dll.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.vcxproj.filters.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/NormalPage.aspx.cs.i
+data/3rd party/NLog-master/examples/web/tutorial.cs.i
+data/BTFP Source/BTFP Video Encoding Setup/BTFP Video Encoding Setup/Express/SingleImage/LogFiles/12-7-2017 02-21-37.txt.i
+data/3rd party/NLog-master/tests/webtest/test.aspx.i
+data/BTFP Source/BaseClasses/refclock.h.i
+data/3rd party/NLog-master/src/NLog/Common/AsyncHelpers.cs.i
+data/3rd party/NLog-master/src/NLog.netfx35.sln.i
+data/3rd party/NLog-master/src/NLog/Targets/ConsoleTarget.cs.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/12-7-2017 02-09-15.txt.i
+data/3rd party/NLog-master/examples/targets/Screenshots/ASPNetTrace/ASPNetTraceOutput2.gif.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RepeatingWrapper/Simple/RepeatingWrapper.csproj.i
+data/3rd party/NLog-master/src/NLog/Targets/AspResponseTarget.cs.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/Reports/1-12-2018 08-51-28.htm.i
+data/BTFP Source/mm_aac_src_1.0.0.1/source/stdafx.h.i
+data/BTFP Source/Audio_Mixer/AudioMixer.h.i
+data/BTFP Source/DecklinkCaptureLib/Filters/ChannelDownmixer.cs.i
+data/BTFP Source/BaseClasses/wxutil.h.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/PerformanceCounterLayoutRenderer.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/wxlist.cpp.i
+data/BTFP Source/BaseClasses/readme.txt.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/refclock.h.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp/NLog.config.i
+data/3rd party/NLog-master/tests/webtest/global.asa.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/refclock.cpp.i
+data/3rd party/NLog-master/src/NLog.Extended/Web/NLogHttpModule.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Console/NLog.config.i
+data/3rd party/NLog-master/examples/NLogDemo/NLogDemo.sln.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PShared.h.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.vcxproj.i
+data/3rd party/NLog-master/src/NLog/NLog.sl4.csproj.i
+data/.hgignore.i
+data/3rd party/NLog-master/src/NLog/Config/AdvancedAttribute.cs.i
+data/3rd party/NLog-master/src/NLog/Config/ConfigSectionHandler.cs.i
+data/BTFP Source/Decklink Capture/btfp_icon.ico.i
+data/3rd party/NLog-master/tools/MakeNLogXSD/app.config.i
+data/3rd party/NLog-master/examples/web/app.config.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.netcf35.csproj.i
+data/3rd party/libP7/Examples/Python/Example.py.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PFileSystem.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Config/ConfigurationItemFactoryTests.cs.i
+data/3rd party/NLog-master/src/NLog/NLog.netfx35.csproj.i
+data/3rd party/libP7/Headers/P7_Extensions.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/Form1.cs.i
+data/3rd party/NLog-master/src/NLog/Filters/WhenEqualFilter.cs.i
+data/3rd party/NLog-master/src/NLog/LogReceiverService/ILogReceiverServer.cs.i
+data/3rd party/NLog-master/tools/MergeApiXml/MergeApiXml.csproj.i
+data/BTFP Source/BaseClasses/fourcc.h.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/SL2/Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/Properties/Settings.Designer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/MSMQ/Simple/NLog.config.i
+data/BTFP Source/BaseClasses/transip.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/combase.h.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/App.config.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/StdAfx.cpp.i
+data/3rd party/NLog-master/tests/SampleExtensions/MyConditionMethods.cs.i
+data/BTFP Source/BTFP Video Encoding/BTFPVideoEncode_Icon.ico.i
+data/3rd party/NLog-master/examples/NLogDemo/Default.aspx.cs.i
+data/BTFP Source/DirectShow Lib/Mixerocx.cs.i
+data/BTFP Source/BTFPVideoEncodingControls/frmAudioMap.Designer.cs.i
+data/BTFP Source/BaseClasses/transip.cpp.i
+data/BTFP Source/MediaFoundation/Properties/AssemblyInfo.cs.i
+data/BTFP Source/Decklink Capture/Form1.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/binaries/mmaaced.ilk.i
+data/3rd party/libP7/Tests/Trace/Test.bat.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionMethodAttribute.cs.i
+data/BTFP Source/DirectShow Lib/TvRatings.cs.i
+data/3rd party/libP7/Shared/RBTree.h.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebVisualBasicConsoleNLogConfig.zip.i
+data/3rd party/GDCL mp4 Demux (new)/mp4demux.dll.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Database/Oracle.Native/Example.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Database/MSSQL/create_nlog_database.sql.i
+data/3rd party/NLog-master/examples/targets/Screenshots/FormControl/FormControl.gif.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/source.cpp.i
+data/BTFP Source/DeckLink/DeckLink.rc.i
+data/3rd party/NLog-master/examples/web/AddTarget.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/NLogViewerNLogConfig/__TemplateIcon.ico.i
+data/BTFP Source/mm_aac_src_1.0.0.1/3rd/readme.txt.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net452/PasswordTextBoxControl.dll.i
+data/BTFP Source/DeckLink/DeckLinkDS.idl.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/Bitstream.h.i
+data/BTFP Source/VideoDevice/stdafx.h.i
+data/BTFP Source/BaseClasses/ctlutil.h.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/DocumentUriLayoutRenderer.cs.i
+data/BTFP Source/MediaFoundation/OpmApi.cs.i
+data/3rd party/libP7/Sources/makefile.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/ElemType.h.i
+data/BTFP Source/BaseClasses/baseclasses.vcxproj.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/portable-net45+wp8+wpa81/System.IO.Compression.dll.i
+data/3rd party/NLog-master/src/NLog.wp71.sln.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/AsyncTargetWrapperTests.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/AspSessionValueLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog/LogReceiverService/NLogEvents.cs.i
+data/3rd party/libP7/Sources/ClTextFile.h.i
+data/BTFP Source/WavMeter/resource.h.i
+data/BTFP Source/WavMeterEx/WavMeter.h.i
+data/BTFP Source/Decklink Capture/Resources/RDC Logo.bmp.i
+data/3rd party/libP7/Sources/ClNull.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/ExceptionTests.cs.i
+data/BTFP Source/MediaFoundation/mfmediacapture.cs.i
+data/BTFP Source/BaseClasses/vtrans.cpp.i
+data/3rd party/libP7/Examples/Cpp/CMakeLists.txt.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/ProcessRunner.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive2/File.Archive2.sln.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/AmbientPropertyAttribute.cs.i
+data/3rd party/aac/unregister.bat.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/AspApplicationValueLayoutRenderer.cs.i
+data/BTFP Source/BaseClasses/mtype.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive4/File.Archive4.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Chainsaw/Simple/Example.cs.i
+data/3rd party/NLog-master/tests/NLogC.UnitTests/NLogC.UnitTests.netfx35.vcproj.i
+data/3rd party/libP7/Tests/Trace/targetver.h.i
+data/BTFP Source/AudioDownMixer/AudioDownMixer.h.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/UppercaseLayoutRendererWrapper.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/StackTraceUsageUtils.cs.i
+data/3rd party/NLog-master/tools/Stylesheets/style.xsl.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/strmctl.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/sysclock.h.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionMethodExpression.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/LayoutRenderer.cs.i
+data/BTFP Source/DeckLink/DeckLinkSource.cpp.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/NLog1_libs/NLog.dll.i
+data/3rd party/NLog-master/examples/targets/Screenshots/ColoredConsole/Simple.gif.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/AsyncRequestQueue-T.cs.i
+data/BTFP Source/Decklink Capture/Resources/stop.png.i
+data/BTFP Source/BTFP Video Encoding/Form1.Designer.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/IdentityLayoutRenderer.cs.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PTime.h.i
+data/BTFP Source/packages/NLog.4.3.3/lib/MonoAndroid10/NLog.dll.i
+data/BTFP Source/packages/NLog.4.3.3/lib/MonoAndroid10/NLog.dll.d
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/Form1.resx.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/activex.rcv.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.sl3.csproj.i
+data/BTFP Source/BaseClasses/videoctl.h.i
+data/BTFP Source/Channel Downmixer/Readme.txt.i
+data/BTFP Source/AVPushSource/DecklinkAudioSource.h.i
+data/3rd party/NLog-master/src/NLog/Targets/ConsoleRowHighlightingRule.cs.i
+data/3rd party/libP7/Sources/P7ClientDll.vcxproj.i
+data/3rd party/NLog-master/src/NLog/Filters/FilterAttribute.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/WhenLayoutRendererWrapper.cs.i
+data/BTFP Source/Audio_Mixer/RingBuffer.h.i
+data/BTFP Source/DirectShow Lib/BDAIface.cs.i
+data/3rd party/NLog-master/examples/NLogReceiverForwarderService/NLogReceiverForwarderService.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/AsyncWrapper/Wrapping File/Example.cs.i
+data/BTFP Source/BTFPVideoEncodingLib/Filters/AudioMixer.cs.i
+data/3rd party/NLog-master/src/NLog/NLog.netfx40.ruleset.i
+data/3rd party/NLog-master/src/NLog/Targets/MethodCallTarget.cs.i
+data/BTFP Source/VideoDevice/VideoDevice.vcproj.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebCSharpFileNLogConfig.zip.i
+data/3rd party/NLog-master/examples/web/article4.nlog.i
+data/BTFP Source/BTFPVideoEncodingControls/frmAudioMap.resx.i
+data/BTFP Source/BTFPVideoEncodingLib/Filters/MonogramAAC.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/RichTextBox.csproj.i
+data/3rd party/NLog-master/examples/NLogDemo/Scripts/jquery-1.4.1.js.i
+data/3rd party/NLog-master/src/NLog/Targets/Win32FileAttributes.cs.i
+data/BTFP Source/BTFP Video Encoding/Resources/error_check_32.png.i
+data/BTFP Source/AudioChannelSplitter/AudioChannelSplitter.def.i
+data/3rd party/libP7/Examples/C#/Properties/Settings.Designer.cs.i
+data/BTFP Source/Decklink Capture/Resources/OK.png.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v9_9.idl.i
+data/3rd party/NLog-master/src/NLog/Targets/MethodCallTargetBase.cs.i
+data/BTFP Source/BaseClasses/pstream.cpp.i
+data/3rd party/libP7/Sources/CRC32.cpp.i
+data/3rd party/NLog-master/src/NLog/Filters/WhenContainsFilter.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/3rd/include/faac.h.i
+data/BTFP Source/BaseClasses/wxdebug.h.i
+data/BTFP Source/BTFP Video Encoding/frmConfiguration.Designer.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/binaries/mmaace.ax.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp/App.xaml.i
+data/BTFP Source/WavMeter/WavMeter.vcxproj.filters.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/WrapperLayoutRendererBase.cs.i
+data/3rd party/NLog-master/tests/webtest/context.aspx.i
+data/BTFP Source/BTFP Video Encoding/ctrlEncodingJob.Designer.cs.i
+data/3rd party/NLog-master/src/NLog/Layouts/CsvColumn.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/vtrans.h.i
+data/3rd party/NLog-master/src/Docs/Docs.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests.Web/ASPTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Mail/Simple/Mail.sln.i
+data/BTFP Source/BTFPVideoEncodingLibTest/Form1.resx.i
+data/3rd party/NLog-master/tests/SilverlightApp/Properties/AppManifest.xml.i
+data/3rd party/NLog-master/src/NLogC/app.ico.i
+data/BTFP Source/AudioDownMixer/AudioDownMixer.vcxproj.i
+data/BTFP Source/BTFPVideoEncodingLib/BTFPVideoEncodingJob.cs.i
+data/BTFP Source/BaseClasses/mtype.cpp.i
+data/BTFP Source/Decklink Capture/Resources/pointer.bmp.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/ddmm.h.i
+data/3rd party/NLog-master/tools/BuildDocPages/BuildDocPages.sln.i
+data/BTFP Source/BTFP Video Encoding Setup/BTFP Video Encoding Setup/Express/Interm/_IsIcoRes.Exe.i
+data/3rd party/NLog-master/src/NLog/Config/RequiredParameterAttribute.cs.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/Silverlight3.js.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionParser.cs.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionRelationalOperator.cs.i
+data/3rd party/NLog-master/src/NLog/Layouts/SimpleLayout.cs.i
+data/BTFP Source/packages/NLog.4.3.3/lib/sl5/NLog.xml.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/SL3/LICENSE.txt.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/NormalPage.aspx.designer.cs.i
+data/3rd party/NLog-master/.gitattributes.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.netcf35.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FallbackGroup/Simple/FallbackGroup.sln.i
+data/3rd party/NLog-master/src/VSIntegration/Snippets/VJSharpLogger.snippet.i
+data/BTFP Source/BTFPVideoEncodingLib/Filters/MonogramX264.cs.i
+data/3rd party/libP7/Wrappers/Py/__init__.py.i
+data/BTFP Source/DirectShow Lib/DirectShowLib-2005.csproj.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PSignal.h.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/ThreadIdLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/PerfCounter/NLog.config.i
+data/3rd party/NLog-master/src/NLog/Config/LoggingRule.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RandomizeGroup/Simple/Example.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/EventLogTarget.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/_Install/Setup.nsi.i
+data/3rd party/NLog-master/src/NLog/Targets/LogReceiverWebServiceTarget.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/wxdebug.cpp.i
+data/3rd party/NLog-master/src/NLog/Internal/FileAppenders/UnixMultiProcessFileAppender.cs.i
+data/3rd party/NLog-master/src/Docs/Frameworks/Silverlight 2.0.shfbproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive2/File.Archive2.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Database/Oracle.OleDb/Example.cs.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net40/PasswordTextBoxControl.dll.i
+data/3rd party/NLog-master/examples/targets/Configuration File/RichTextBox/Simple/NLog.config.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MethodCall/Simple/MethodCall.csproj.i
+data/3rd party/libP7/Headers/P7_Cproxy.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive4/File.Archive4.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/Properties/AssemblyInfo.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/ParseBuffer.cpp.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/ctlutil.h.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/ExceptionLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog.netcf20.vsmdi.i
+data/BTFP Source/Decklink Capture/Resources/BTFPVideoCapture_Icon.png.i
+data/3rd party/NLog-master/src/NLog/Settings.StyleCop.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/ASPNetBufferingWrapper.csproj.i
+data/BTFP Source/BTFP Video Encoding/Form1.resx.i
+data/BTFP Source/DeinterlaceFilter/DeinterlaceFilter.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/Properties/Resources.resx.i
+data/BTFP Source/packages/SimplePassword.dll.1.0/lib/net40-full/SimplePassword.dll.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLogTraceListenerTests.cs.i
+data/3rd party/NLog-master/examples/web/config6.nlog.i
+data/3rd party/NLog-master/examples/web/article5.nlog.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Console/Simple/Console.csproj.i
+data/3rd party/NLog-master/src/Docs/BuildDoc.cmd.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/PageWithWarnings.aspx.designer.cs.i
+data/3rd party/NLog-master/src/NLog/AssemblyBuildInfo.cs.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PJournal.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NUnitAdapter.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/readme.md.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/Reports/12-7-2017 02-22-25.htm.i
+data/3rd party/libP7/Sources/P7ClientDll.vcxproj.filters.i
+data/BTFP Source/Decklink Capture/frmAbout.resx.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.mono2.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration File/ColoredConsole/Word Highlighting/NLog.config.i
+data/3rd party/NLog-master/tests/NLog.ComInteropTests/NLog.ComInteropTest.config.i
+data/BTFP Source/BTFPVideoEncodingLib/BTFPVideoEncodingLib.csproj.i
+data/3rd party/NLog-master/src/NLog/Internal/MessageBoxHelper.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/generate_variants.pl.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/baseclasses.vcproj.i
+data/BTFP Source/DeckLink/PropertySet.h.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/tools/Install.ps1.i
+data/3rd party/NLog-master/tools/libiconv-2.dll.d
+data/3rd party/NLog-master/src/NLog/NLog.wp71.csproj.i
+data/3rd party/NLog-master/tools/libiconv-2.dll.i
+data/3rd party/NLog-master/tests/SampleExtensions/FooLayoutRenderer.cs.i
+data/BTFP Source/DeckLink/Filter.def.i
+data/3rd party/NLog-master/tools/DumpTestResultSummary/Program.cs.i
+data/3rd party/libP7/Examples/C/C_Example.c.i
+data/BTFP Source/DirectShow Lib/qnetwork.cs.i
+data/3rd party/NLog-master/tools/Installer/Background.design.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/SL2/LICENSE.txt.i
+data/3rd party/NLog-master/examples/targets/Configuration API/EventLog/Simple/EventLog.csproj.i
+data/BTFP Source/DeckLink/DeckLinkDS_i.c.i
+data/3rd party/NLog-master/src/NLog/Targets/RichTextBoxRowColoringRule.cs.i
+data/3rd party/NLog-master/tests/NLogReceiverService/CrossDomainPolicyServer.cs.i
+data/BTFP Source/DecklinkWrapperTest/Program.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Conditions/ConditionEvaluatorTests.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/vtrans.cpp.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/NLog.config.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.monodevelop.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Properties/AppManifest.xml.i
+data/3rd party/NLog-master/examples/targets/Configuration File/OutputDebugString/NLog.config.i
+data/BTFP Source/Audio_Mixer/Logger.h.i
+data/BTFP Source/DeckLink/stdafx.h.i
+data/3rd party/NLog-master/examples/web/NLogCdef.cpp.i
+data/BTFP Source/DeckLink/VideoProperty.h.i
+data/BTFP Source/packages/NLog.4.3.3/lib/net45/NLog.dll.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/ConfigFiles/included.nlog.i
+data/BTFP Source/DecklinkCaptureLib/DecklinkCaptureLib.csproj.i
+data/BTFP Source/packages/NLog.4.3.3/lib/net45/NLog.dll.d
+data/BTFP Source/packages/NLog.4.3.3/lib/Xamarin.iOS10/NLog.dll.i
+data/BTFP Source/Common/includes/DeckLinkAPIDeckControl.idl.i
+data/BTFP Source/packages/NLog.4.3.3/lib/Xamarin.iOS10/NLog.dll.d
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/Form1.Designer.cs.i
+data/3rd party/NLog-master/src/NLog/NLog.netcf35.csproj.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/pullpin.h.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PSocket.h.i
+data/BTFP Source/packages/NLog.4.3.6/lib/MonoAndroid10/NLog.dll.d
+data/3rd party/NLog-master/examples/web/article6.nlog.i
+data/BTFP Source/BTFPVideoEncodingLib/MediaInfoDLL.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Chainsaw/Simple/Chainsaw.csproj.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/LogReceiverNLogConfig/MyTemplate.vstemplate.i
+data/3rd party/NLog-master/examples/web/MyFirstFilter.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/TcpNetworkSender.cs.i
+data/BTFP Source/AVPushSource/AVPushSource.def.i
+data/3rd party/Windows Media Lib/src/WindowsMediaLib-2005.csproj.i
+data/3rd party/NLog-master/src/NLog/NLog.sl2.csproj.i
+data/3rd party/Media Foundation/MediaFoundation.dll.i
+data/BTFP Source/DeckLink/DeckLinkVideoOutputPin.cpp.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/CSharpNLogViewerNLogConfig.zip.i
+data/3rd party/NLog-master/examples/targets/Configuration API/SplitGroup/Simple/Example.cs.i
+data/BTFP Source/Channel Downmixer/StereoDownmixerPropP3.cpp.i
+data/3rd party/NLog-master/src/NLog.Extended/LayoutRenderers/AspNetSessionIDLayoutRenderer.cs.i
+data/BTFP Source/AudioMultiTrackDownMixer/AudioMultiTrackDownMixer.vcxproj.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/DemuxFilter.cpp.i
+data/BTFP Source/DeckLink/VideoDevice.idl.i
+data/3rd party/NLog-master/src/NLog/LogReceiverService/LogReceiverForwardingService.cs.i
+data/BTFP Source/BTFP Video Encoding/UIHelpers.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/VisualBasicFileNLogConfig.zip.i
+data/BTFP Source/DeckLink/DeckLinkAudioOutputPin.h.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Mail/Buffered/NLog.config.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PShared.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/RichTextBox.WordColoring.sln.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PSystem.h.i
+data/BTFP Source/WavMeter/WavMeter_i.h.i
+data/BTFP Source/DeckLink/DeckLinkAPI_h.h.i
+data/3rd party/NLog-master/examples/web/config3.nlog.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/ProcessTimeLayoutRenderer.cs.i
+data/3rd party/NLog-master/tools/WebsiteFiles/style.xsl.i
+data/3rd party/NLog-master/tests/SilverlightApp/NLog.config.i
+data/3rd party/NLog-master/examples/targets/Configuration API/PostFilteringWrapper/Simple/PostFilteringWrapper.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/MDCTests.cs.i
+data/3rd party/NLog-master/src/NLog.Extended/CustomDictionary.xml.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/cprop.cpp.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/FileNLogConfig/__TemplateIcon.ico.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/reftime.h.i
+data/BTFP Source/packages/NLog.4.3.6/lib/sl5/NLog.dll.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/App.xaml.cs.i
+data/3rd party/NLog-master/src/NLog.Extended/NLog.Extended.netfx20.csproj.i
+data/3rd party/NLog-master/src/NLog/Internal/ThreadLocalStorageHelper.cs.i
+data/3rd party/libP7/Headers/GTypes.h.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/Silverlight2.js.i
+data/3rd party/NLog-master/LICENSE.txt.i
+data/3rd party/NLog-master/src/NLogC/NLogger.h.i
+data/3rd party/NLog-master/src/NLog/LogEventInfo.cs.i
+data/BTFP Source/BaseClasses/dllsetup.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/alloc.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/ConfigFiles/main.nlog.i
+data/BTFP Source/MediaFoundation/Externs.cs.i
+data/BTFP Source/DecklinkCaptureLib/Filters/DeinterlaceFilter.cs.i
+data/BTFP Source/BTFP Video Encoding/frmConfiguration.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive3/File.Archive3.sln.i
+data/BTFP Source/AudioChannelSplitter/AudioChannelSplitter.vcxproj.i
+data/BTFP Source/DirectShow Lib/DES.cs.i
+data/3rd party/libP7/Tests/Trace/stdafx.h.i
+data/3rd party/NLog-master/src/Mono.targets.i
+data/BTFP Source/Decklink Capture/Resources/record.png.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/Form1.Designer.cs.i
+data/BTFP Source/Decklink Capture/Resources/Cancel.png.i
+data/BTFP Source/packages/Xander.PasswordValidator.1.0.1/lib/net40/Xander.PasswordValidator.XML.i
+data/BTFP Source/DeckLink/log.h.i
+data/BTFP Source/VideoDevice/VideoDevice_h.h.i
+data/BTFP Source/Channel Downmixer/StereoDownmixerPropP2.h.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/Properties/AssemblyInfo.cs.i
+data/3rd party/libP7/Sources/P7ClientLib.vcxproj.filters.i
+data/3rd party/NLog-master/src/NLog.Extended/LayoutRenderers/AspNetRequestValueLayoutRenderer.cs.i
+data/3rd party/NLog-master/tools/BuildDocPages/DocPageGenerator.cs.i
+data/BTFP Source/DeckLink/DeckLinkAudioOutputPin.cpp.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/App.xaml.i
+data/3rd party/NLog-master/tests/SampleExtensions/FooLayout.cs.i
+data/BTFP Source/BaseClasses/wxlist.cpp.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/SL3/Microsoft.Silverlight.Testing.dll.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/ImpersonatingTargetWrapperTests.cs.i
+data/3rd party/NLog-master/src/NLog.Extended/LayoutRenderers/AspNetUserIdentityLayoutRenderer.cs.i
+data/BTFP Source/BTFP Video Encoding/frmEncodingInfo.resx.i
+data/BTFP Source/Decklink Capture/Controls/Volume Trackbar/SixChannelTrackbar.resx.i
+data/3rd party/NLog-master/src/NLog/Internal/LocalizableAttribute.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Trace/NLog.config.i
+data/3rd party/libP7/Sources/Trace.h.i
+data/BTFP Source/Decklink Capture/Resources/mute.png.i
+data/3rd party/NLog-master/tools/WebsiteFiles/NetCfSupport.png.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionOrExpression.cs.i
+data/BTFP Source/Decklink Capture/frmMain.resx.i
+data/BTFP Source/BaseClasses/sysclock.cpp.i
+data/BTFP Source/Decklink Capture/Resources/exit1.png.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/FormControl.sln.i
+data/3rd party/libP7/Sources/Formatter.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ColoredConsole/Row Highlighting/ColoredConsole.Row Highlighting.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration File/WebService/WebService1/Service1.asmx.cs.i
+data/BTFP Source/DirectShow Lib/PlayList.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/mp4demux.vcxproj.filters.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v7_9.idl.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/PostFilteringTargetWrapper.cs.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/ApplicationIcon.png.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/Default.aspx.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/LoggerNameTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/WebService/Simple/Example.cs.i
+data/BTFP Source/Decklink Capture/frmExporting.Designer.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/DateLayoutRenderer.cs.i
+data/3rd party/libP7/Shared/Length.h.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PProcess.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Mail/Simple/Mail.csproj.i
+data/3rd party/libP7/Documentation/P7.pdf.d
+data/3rd party/NLog-master/examples/targets/Configuration API/SplitGroup/Simple/SplitGroup.sln.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Contexts/MappedDiagnosticsContextTests.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/ConsoleOutputColor.cs.i
+data/BTFP Source/BTFPVideoEncodingControls/Properties/AssemblyInfo.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/mp4demux.rc.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RoundRobinGroup/Simple/RoundRobinGroup.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/Example.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/CallSiteLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/SimpleStringReader.cs.i
+data/3rd party/NLog-master/tests/webtest/web.config.i
+data/BTFP Source/DeckLink/DeckLinkFilterConfigPage.cpp.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/Bitstream.cpp.i
+data/3rd party/NLog-master/src/SmartDeviceTestRun.testrunConfig.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/Web.config.i
+data/BTFP Source/DecklinkCaptureLib/DecklinkCaptureLibConfiguration.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive1/Example.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/OutputDebugString/Simple/OutputDebugString.sln.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/transip.h.i
+data/BTFP Source/DirectShow Lib/RegBag.cs.i
+data/BTFP Source/DirectShow Lib/Tuner.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/PageWithWarnings.aspx.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/dllentry.cpp.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/WhenEmptyLayoutRendererWrapper.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Null/Simple/Null.csproj.i
+data/3rd party/aac/2010 Build/unregister.bat.i
+data/3rd party/NLog-master/examples/targets/Screenshots/MessageBox/MessageBoxTarget.gif.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386_WithoutInstaller/MediaInfo_InfoTip.dll.i
+data/BTFP Source/AVPushSource/CustomAllocator.cpp.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/QueryPerformanceCounterLayoutRenderer.cs.i
+data/BTFP Source/BaseClasses/pullpin.h.i
+data/BTFP Source/BTFPVideoEncodingLib/Filters/WavMeterEx.cs.i
+data/readme.txt.i
+data/BTFP Source/BaseClasses/amextra.h.i
+data/BTFP Source/BaseClasses/vtrans.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/mp4demux.cpp.i
+data/3rd party/NLog-master/tools/Installer/NLogWix.sln.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/GarbageCollectorProperty.cs.i
+data/3rd party/NLog-master/tests/NLog.Test/Test.cs.i
+data/3rd party/NLog-master/examples/targets/Screenshots/RichTextBox/WordColoring.gif.i
+data/BTFP Source/Decklink Capture/Resources/exit.png.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/Properties/AppManifest.xml.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/Mpeg4.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RandomizeGroup/Simple/RandomizeGroup.sln.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/ConfigFiles/referencemissingfile.nlog.i
+data/3rd party/NLog-master/Makefile.i
+data/3rd party/NLog-master/tests/SilverlightApp/MainPage.xaml.cs.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.h.i
+data/3rd party/NLog-master/tools/SyncProjectItems/Program.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/Example.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/FilteringWrapper/NLog.config.i
+data/BTFP Source/packages/NLog.4.3.6/lib/sl4/NLog.xml.i
+data/3rd party/NLog-master/examples/targets/Configuration API/NLogViewer/Simple/NLogViewer.csproj.i
+data/3rd party/NLog-master/src/NLog/Targets/FileTarget.cs.i
+data/3rd party/aac/mmaace.ax.i
+data/3rd party/NLog-master/src/NLog/Internal/CompilerAttributes.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/RoutingTests.cs.i
+data/3rd party/NLog-master/tests/NLog.Test/App.config.i
+data/BTFP Source/DirectShow Lib/dsattrib.cs.i
+data/3rd party/libP7/Wrappers/Py/P7.py.i
+data/3rd party/NLog-master/src/NLogC/NLogC.netfx35.vcproj.i
+data/BTFP Source/mm_aac_src_1.0.0.1/binaries/register.bat.i
+data/3rd party/NLog-master/src/NLogC/NLogC.netfx40.vcxproj.filters.i
+data/BTFP Source/Decklink Capture/Controls/Vu Meter/ucVULED.resx.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/FileContentsTests.cs.i
+data/3rd party/libP7/Tests/Speed/Speed.vcxproj.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/NLogReceiver.svc.cs.i
+data/BTFP Source/BTFP Video Encoding/Resources/Cancel.png.i
+data/BTFP Source/Decklink Capture/Decklink Capture.csproj.i
+data/3rd party/NLog-master/src/NLog/Layouts/Layout.cs.i
+data/BTFP Source/BTFPVideoEncodingLibTest/Program.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/mp4mux.cpp.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/1-11-2018 10-48-12.txt.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebVisualBasicNLogViewerNLogConfig.zip.i
+data/3rd party/libP7/Sources/Socket.h.i
+data/3rd party/NLog-master/tests/SilverlightApp/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/ColoredConsole/Row Highlighting/NLog.config.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/SocketError.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/SplitGroupTarget.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/CSV/File.CSV.sln.i
+data/3rd party/NLog-master/src/NLog/Targets/NetworkTargetOverflowAction.cs.i
+data/3rd party/libP7/Sources/Trace.cpp.i
+data/BTFP Source/mm_aac_src_1.0.0.1/encoder_aac.vcxproj.filters.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/LoggerWrapper/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Database/Oracle.Native/Database.Oracle.Native.sln.i
+data/BTFP Source/Decklink Capture/video_camera.ico.i
+data/BTFP Source/mm_aac_src_1.0.0.1/bitmap_logo.bmp.i
+data/BTFP Source/DirectShow Lib/Mpeg2Data.cs.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v8_1.idl.i
+data/BTFP Source/BTFP Video Encoding/Resources/pause_2.png.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Database/MSSQL/NLog.config.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/amfilter.h.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/MdcLayoutRenderer.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Background.png.i
+data/BTFP Source/BaseClasses/cprop.h.i
+data/3rd party/NLog-master/tools/WebsiteFiles/MonoSupport.png.i
+data/BTFP Source/BTFPVideoEncodingLibTest/Properties/Resources.Designer.cs.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.plg.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/thread.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/baseclasses.vcproj.8.00.old.i
+data/3rd party/NLog-master/src/NLog.netfx20.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MSMQ/Simple/MSMQ.sln.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/CSharpFileNLogConfig.zip.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.opt.i
+data/BTFP Source/AVPushSource/Utils.h.i
+data/BTFP Source/AVPushSource/DecklinkAudioSource.cpp.i
+data/3rd party/libP7/Sources/P7ClientLib.vcxproj.i
+data/3rd party/NLog-master/src/NLog/Config/ThreadAgnosticAttribute.cs.i
+data/BTFP Source/Decklink Capture/Controls/Volume Trackbar/SingleTrackBar.cs.i
+data/BTFP Source/BaseClasses/amfilter.cpp.i
+data/BTFP Source/BTFP Video Encoding/Properties/Resources.resx.i
+data/3rd party/libP7/Shared/AList.h.i
+data/3rd party/NLog-master/tools/SetupNLog.nsi.i
+data/3rd party/aac/2010 Build/Register.bat.i
+data/3rd party/NLog-master/src/NLog/Targets/ColoredConsoleTarget.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/portable-net45+win8+wpa81/_._.i
+data/3rd party/NLog-master/tools/libintl-2.dll.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/Module_i.h.i
+data/3rd party/NLog-master/examples/web/config11.nlog.i
+data/BTFP Source/Common/includes/DeckLinkAPIConfiguration.idl.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/TimeLayoutRenderer.cs.i
+data/BTFP Source/Channel Downmixer/stdafx.cpp.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/InheritFromLogger/Program.cs.i
+data/3rd party/libP7/Wrappers/C#/P7.cs.i
+data/3rd party/NLog-master/src/NLog/LoggerImpl.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/Properties/AssemblyInfo.cs.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.cpp.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.netfx35.csproj.i
+data/BTFP Source/BTFPVideoEncodingLib/Properties/AssemblyInfo.cs.i
+data/BTFP Source/BaseClasses/cprop.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FilteringWrapper/Simple/FilteringWrapper.sln.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Layouts/ThreadAgnosticTests.cs.i
+data/3rd party/NLog-master/src/NLog/Config/XmlLoggingConfiguration.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Database/Oracle.OleDb/NLog.config.i
+data/3rd party/Windows Media Lib/docs/ReadMe.rtf.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/content/sl4/_._.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/SpecialFolderLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/MethodCallParameter.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/FileAppenders/CountingSingleProcessFileAppender.cs.i
+data/3rd party/NLog-master/examples/web/config8.nlog.i
+data/BTFP Source/DirectShow Lib/IL21Dec.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/NLogViewer/Simple/NLogViewer.sln.i
+data/BTFP Source/DirectShow Lib/AssemblyInfo.cs.i
+data/BTFP Source/BaseClasses/pstream.h.i
+data/3rd party/NLog-master/src/Docs/NLogo.gif.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/Example.cs.i
+data/3rd party/NLog-master/examples/NLogDemo/gmailusername.txt.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Filters/WhenNotContainsTests.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/Module.idl.i
+data/BTFP Source/BaseClasses/wxlist.h.i
+data/3rd party/NLog-master/src/NLog/Config/SimpleConfigurator.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/BufferingTargetWrapper.cs.i
+data/3rd party/NLog-master/tests/NLogReceiverService/ICrossDomainPolicyServer.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/transip.cpp.i
+data/3rd party/NLog-master/src/VSIntegration/Snippets/CSharpLogger.snippet.i
+data/BTFP Source/BTFPVideoEncodingControls/ctrlAudioChannelsMap.cs.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v10_5.idl.i
+data/BTFP Source/WavMeter/WavMeter.h.i
+data/3rd party/NLog-master/examples/targets/Configuration File/RepeatingWrapper/NLog.config.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/LoggerWrapper/NLog.config.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/LiteralLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ColoredConsole/Simple/ColoredConsole.sln.i
+data/BTFP Source/mm_aac_src_1.0.0.1/encoder_aac.vcxproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Rot13Tests.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/encoder_aac.def.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/StackTraceLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog/Config/IFactory.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/win8/_._.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionExpression.cs.i
+data/BTFP Source/AVPushSource/DecklinkVideoSource.cpp.i
+data/BTFP Source/DeckLink/DeckLinkDevice.h.i
+data/3rd party/libP7/Examples/C#/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/NLogWindowsPhoneApplication.sln.i
+data/BTFP Source/BTFP Video Encoding/Resources/play.png.i
+data/BTFP Source/BaseClasses/videoctl.cpp.i
+data/BTFP Source/DecklinkWrapperTest/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/UrlEncodeLayoutRendererWrapper.cs.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.sl2.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/EventLog/Simple/Example.cs.i
+data/BTFP Source/BaseClasses/amfilter.h.i
+data/BTFP Source/BTFPVideoEncodingLib/MediaInfo.dll.d
+data/BTFP Source/Decklink Capture/Resources/BTFP Logo.png.i
+data/BTFP Source/BTFPVideoEncodingLib/MediaInfo.dll.i
+data/BTFP Source/DirectShow Lib/Misc.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Wrappers/WhenTests.cs.i
+data/BTFP Source/BTFPVideoEncodingControls/ctrlAudioChannelsMap.Designer.cs.i
+data/3rd party/NLog-master/src/NLog.sl2.sln.i
+data/3rd party/libP7/Sources/ClText.h.i
+data/BTFP Source/DirectShow Lib/AXExtend.cs.i
+data/BTFP Source/DecklinkCaptureLib/Filters/Mp4DemuxFilter.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/ThreadIDHelper.cs.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/ConsoleRunner.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/TargetWithLayoutHeaderAndFooter.cs.i
+data/3rd party/NLog-master/src/NLog/MappedDiagnosticsContext.cs.i
+data/3rd party/yuv codecs/yv12vfw.dll.i
+data/3rd party/NLog-master/tools/SyncProjectItems/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/src/Docs/Frameworks/.NET Compact Framework 2.0.shfbproj.i
+data/3rd party/NLog-master/tests/webtest/context.asp.i
+data/BTFP Source/Audio_Mixer/AudioMixerInputPin.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Memory/Simple/Example.cs.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/Reports/1-11-2018 10-52-18.htm.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/HttpNetworkSender.cs.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup.isproj.i
+data/3rd party/NLog-master/src/NLog.Extended/ProjectFileInfo.xml.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ColoredConsole/Row Highlighting/Example.cs.i
+data/BTFP Source/BTFP Video Encoding/app.config.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/ConcurrentFileTargetTests.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/NewLineLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Asynchronous/File.Asynchronous.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration File/RoundRobinGroup/NLog.config.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/SplashScreenImage.jpg.i
+data/BTFP Source/BTFPVideoEncodingLibTest/Properties/Resources.resx.i
+data/3rd party/NLog-master/examples/web/NLogC.cpp.i
+data/3rd party/NLog-master/tests/NLogReceiverService/LogReceiverServer.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/dsschedule.h.i
+data/3rd party/Windows Media Lib/src/WMDefs.cs.i
+data/BTFP Source/DecklinkCaptureLib/DecklinkCaptureLibException.cs.i
+data/BTFP Source/Channel Downmixer/stdafx.h.i
+data/BTFP Source/DeckLink/Filter_h.h.i
+data/3rd party/NLog-master/src/NLog/Internal/NativeMethods.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/NDCTests.cs.i
+data/BTFP Source/BaseClasses/sysclock.h.i
+data/BTFP Source/BTFPVideoEncodingLib/VideoHelpers.cs.i
+data/3rd party/NLog-master/tools/BuildDocPages/BuildDocPages.csproj.i
+data/BTFP Source/DirectShow Lib/DirectShowLib-2005.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Null/Simple/Null.sln.i
+data/3rd party/NLog-master/src/NLog/Internal/DictionaryAdapter.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/FileNLogConfig/NLog.config.i
+data/BTFP Source/WavMeter/WavMeter.def.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/tools/Microsoft.Bcl.Build.Tasks.dll.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/SecurityLogOnType.cs.i
+data/3rd party/LAV Audio/LAVFilters.Dependencies.manifest.i
+data/3rd party/NLog-master/src/NLog/Internal/Win32FileInfoHelper.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/Properties/Resources.resx.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/SilverlightConsoleRunner.sln.i
+data/BTFP Source/DirectShow Lib/MediaObj.cs.i
+data/3rd party/NLog-master/tools/MergeApiXml/NLogApiMerger.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/Index.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/DemuxFilter.h.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionMethods.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/smartptr.h.i
+data/3rd party/LAV Audio/LAVAudio.ax.i
+data/3rd party/NLog-master/src/NLog/Internal/IUsesStackTrace.cs.i
+data/3rd party/NLog-master/tools/DumpTestResultSummary/DumpTestResultSummary.sln.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/TypeHandler.h.i
+data/BTFP Source/DeckLink/resource.h.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/NLogViewerNLogConfig/MyTemplate.vstemplate.i
+data/3rd party/NLog-master/src/NLog/Targets/LineEndingMode.cs.i
+data/BTFP Source/BaseClasses/ddmm.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive1/File.Archive1.csproj.i
+data/BTFP Source/DirectShow Lib/mpeg2psiparser.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/mp4mux.vcxproj.i
+data/BTFP Source/VideoDevice/combase.h.i
+data/3rd party/NLog-master/examples/NLogDemo/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/examples/NLogDemo/Web.Debug.config.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/RegistryLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/ThreadNameLayoutRenderer.cs.i
+data/1_11 CAP_TEST/Scattered.png.d
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/source.h.i
+data/BTFP Source/Audio_Mixer/AudioMixerInputPin.cpp.i
+data/1_11 CAP_TEST/Jan_11_Test_.mp4.i
+data/3rd party/NLog-master/src/NLog/Internal/ExceptionHelper.cs.i
+data/3rd party/libP7/build.sh.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net35-client/PasswordTextBoxControl.dll.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/cache.h.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp/MainPage.xaml.i
+data/3rd party/NLog-master/src/NLog.netfx20.vsmdi.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/GarbageCollectorInfoLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog/ComInterop/ComLogger.cs.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/MainPage.xaml.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RetryingWrapper/Simple/RetryingWrapper.sln.i
+data/3rd party/NLog-master/src/NLog/GlobalSuppressions.cs.i
+data/3rd party/NLog-master/tests/NLog.Test/Config2.nlog.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/net45/_._.i
+data/3rd party/libP7/Sources/ClBaical.h.i
+data/BTFP Source/DecklinkCaptureLib/DecklinApiWrapper.cs.i
+data/BTFP Source/BaseClasses/dllentry.cpp.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.mono2.csproj.i
+data/BTFP Source/BTFPVideoEncodingLibTest/Properties/Settings.Designer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/Example.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Template.sln.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/Default.aspx.designer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/PerfCounter/Simple/PerfCounter.sln.i
+data/BTFP Source/packages/NLog.4.3.3/lib/net40/NLog.xml.i
+data/BTFP Source/AVPushSource/CustomAllocator.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/strmctl.cpp.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/baseclasses.vcxproj.filters.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/Reports/12-7-2017 02-24-07.htm.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/LevelLayoutRenderer.cs.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net30/PasswordTextBoxControl.dll.i
+data/BTFP Source/DecklinkCaptureLib/Filters/LavAudio.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/ParameterUtils.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/source/aac_types.h.i
+data/BTFP Source/BTFPVideoEncodingLib/BTFPVideoTranscoder.cs.i
+data/BTFP Source/DecklinkWrapperTest/Form1.Designer.cs.i
+data/BTFP Source/BaseClasses/baseclasses.dsp.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/LogReceiverNLogConfig/NLog.config.i
+data/3rd party/NLog-master/tests/NLogReceiverService/clientaccesspolicy.xml.i
+data/3rd party/libP7/Tests/Trace/Trace.vcxproj.filters.i
+data/3rd party/NLog-master/examples/targets/Configuration API/AsyncWrapper/Wrapping File/AsyncWrapper.Wrapping File.sln.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/mtype.cpp.i
+data/3rd party/NLog-master/tests/NLogReceiverService/app.config.i
+data/3rd party/libP7/P7.sln.i
+data/BTFP Source/packages/NLog.4.3.6/lib/Xamarin.iOS10/NLog.xml.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/TicksLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/Docs/Frameworks/.NET Compact Framework 3.5.shfbproj.i
+data/3rd party/NLog-master/src/LocalTestRun.netfx40.testrunconfig.i
+data/BTFP Source/DecklinkCaptureLib/Filters/AudioDownMixer.cs.i
+data/BTFP Source/Decklink Capture/Controls/Vu Meter/ucVUMeter.cs.i
+data/3rd party/NLog-master/src/NLog.snk.i
+data/BTFP Source/BTFP Video Encoding/ctrlEncodingJob.resx.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Mail/Buffered/Mail.Buffered.csproj.i
+data/BTFP Source/Decklink Capture/frmVideoTrimmer.resx.i
+data/3rd party/NLog-master/src/NLog.Extended/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/StackTraceFormat.cs.i
+data/BTFP Source/DirectShow Lib/AxCore.cs.i
+data/BTFP Source/packages/NLog.4.3.6/lib/sl5/NLog.xml.i
+data/3rd party/NLog-master/src/NLog.Extended/AssemblyBuildInfo.cs.i
+data/BTFP Source/packages/repositories.config.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/SocketProxy.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/mp4mux.aps.i
+data/BTFP Source/BaseClasses/activex.rcv.i
+data/3rd party/NLog-master/examples/targets/Configuration API/AsyncWrapper/Wrapping File/AsyncWrapper.Wrapping File.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/WebService/Simple/WebService.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FallbackGroup/Simple/Example.cs.i
+data/3rd party/NLog-master/tests/NLogReceiverService/NLog.config.i
+data/3rd party/NLog-master/examples/targets/Configuration File/FormControl/NLog.config.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/LogManagerTests.cs.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net461/PasswordTextBoxControl.dll.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v9_2.idl.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Console/Simple/Console.sln.i
+data/3rd party/libP7/Tests/Speed/SpeedParalel_cpp.i
+data/3rd party/libP7/Sources/Common.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Multiple2/File.Multiple2.csproj.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/mp4mux.def.i
+data/BTFP Source/DeckLink/DeckLinkDS_h.h.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/portable-net45+win8+wp8+wpa81/System.IO.Compression.xml.i
+data/BTFP Source/Decklink Capture/Resources/trim_video.png.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Contexts/GlobalDiagnosticsContextTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/ApplicationIcon.png.i
+data/BTFP Source/DecklinkWrapperTest/Form1.resx.i
+data/BTFP Source/mm_aac_src_1.0.0.1/binaries/unregister.bat.i
+data/3rd party/NLog-master/tools/Installer/NLogWix.csproj.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp/Properties/AppManifest.xml.i
+data/BTFP Source/DeinterlaceFilter/DeinterlaceFilter.vcxproj.filters.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/winutil.h.i
+data/BTFP Source/Decklink Capture/Controls/RangeBar/RangeBar.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/Properties/Resources.resx.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/RowColoring/Form1.cs.i
+data/3rd party/NLog-master/examples/web/Performance.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/File/Archive1/NLog.config.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.netfx20.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive3/Example.cs.i
+data/BTFP Source/DirectShow Lib/DsUtils.cs.i
+data/BTFP Source/packages/NLog.4.3.6/lib/net45/NLog.dll.d
+data/BTFP Source/MediaFoundation/mfmediaengine.cs.i
+data/BTFP Source/packages/NLog.4.3.6/lib/net45/NLog.dll.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Network/Simple/Network.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/Properties/Settings.Designer.cs.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v8_0.idl.i
+data/3rd party/NLog-master/examples/web/config10.nlog.i
+data/3rd party/NLog-master/src/NLog/Common/AsyncLogEventInfo.cs.i
+data/3rd party/NLog-master/tools/Installer/Installer.wixproj.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/WP71/Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll.i
+data/3rd party/aac/2010 Build/mmaace.ax.i
+data/.hglf/3rd party/LAV Audio/avcodec-lav-57.dll.i
+data/BTFP Source/BTFP Video Encoding/Resources/stop.png.i
+data/BTFP Source/MediaFoundation/mfcaptureengine.cs.i
+data/BTFP Source/packages/NLog.4.3.3/lib/net40/NLog.dll.i
+data/3rd party/NLog-master/examples/targets/Configuration File/ASPNetTrace/web.nlog.i
+data/3rd party/NLog-master/tests/SampleExtensions/ProjectFileInfo.xml.i
+data/BTFP Source/packages/NLog.4.3.3/lib/net40/NLog.dll.d
+data/3rd party/NLog-master/src/NLog/Filters/WhenNotContainsFilter.cs.i
+data/BTFP Source/DirectShow Lib/Uuids.cs.i
+data/3rd party/NLog-master/src/NLog/Config/ArrayParameterAttribute.cs.i
+data/BTFP Source/BTFP Video Encoding/Properties/Settings.Designer.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/INetworkSenderFactory.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/WebService/Simple/WebService.sln.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Wrappers/CachedTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Layouts/SimpleLayoutOutputTests.cs.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/InheritFromLogger/Properties/AssemblyInfo.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/amextra.cpp.i
+data/3rd party/NLog-master/src/publisher_policy.config.template.i
+data/BTFP Source/packages/NLog.4.3.3/lib/MonoAndroid10/NLog.xml.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/NormalPage.aspx.i
+data/3rd party/NLog-master/src/NLog/Internal/CurrentTimeGetter.cs.i
+data/BTFP Source/DeinterlaceFilter/DeinterlaceFilter.def.i
+data/3rd party/NLog-master/examples/targets/Configuration File/RichTextBox/WordColoring/NLog.config.i
+data/BTFP Source/BaseClasses/pullpin.cpp.i
+data/BTFP Source/packages/NLog.4.3.6/lib/net40/NLog.xml.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/MachineNameLayoutRenderer.cs.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/Reports/12-7-2017 02-16-28.htm.i
+data/3rd party/NLog-master/tools/DumpApiXml/DumpApiXml.csproj.i
+data/3rd party/NLog-master/src/NLog/LogReceiverService/ILogReceiverClient.cs.i
+data/BTFP Source/BTFPVideoEncodingLib/Filters/ResizerDMO.cs.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/LogFiles/1-12-2018 08-49-21.txt.i
+data/3rd party/NLog-master/src/Docs/Frameworks/Documentation.shfbproj.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/InheritFromLogger/InheritFromLogger.csproj.i
+data/3rd party/NLog-master/tests/SilverlightApp/App.xaml.i
+data/BTFP Source/DirectShow Lib/atscpsipparser.cs.i
+data/3rd party/NLog-master/src/NLog/Layouts/CsvLayout.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/AutoFlushTargetWrapper.cs.i
+data/BTFP Source/BTFP Video Encoding/BTFP Video Encoding.csproj.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/CSharpLogReceiverNLogConfig.zip.i
+data/3rd party/NLog-master/examples/targets/Configuration API/WebService/Simple/WebService1/WebService1.csproj.i
+data/3rd party/NLog-master/tools/RunXap/RunXap.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Config/RuleConfigurationTests.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/mp4demux.vcxproj.i
+data/3rd party/aac/register.bat.i
+data/3rd party/NLog-master/src/NLog/Targets/TargetAttribute.cs.i
+data/BTFP Source/AudioChannelSplitter/iAudioChannelSplitter.h.i
+data/BTFP Source/BTFP Video Encoding/Properties/AssemblyInfo.cs.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.dsw.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/Index.cpp.i
+data/3rd party/libP7/Shared/UTF.h.i
+data/3rd party/libP7/Sources/ClFile.h.i
+data/BTFP Source/BTFPVideoEncodingLib/Filters/LavAudio.cs.i
+data/BTFP Source/Decklink Capture/Resources/play.png.i
+data/3rd party/NLog-master/tests/SampleExtensions/SampleExtensions.netfx20.csproj.i
+data/BTFP Source/DecklinkCaptureLib/Filters/DecklinkSource.cs.i
+data/3rd party/Audio Channel Downmixer/4 unspecified mapping to 4.0.mixmatrix.i
+data/3rd party/NLog-master/examples/targets/Configuration API/AutoFlushWrapper/Simple/AutoFlushWrapper.csproj.i
+data/BTFP Source/packages/NLog.4.3.6/lib/Xamarin.iOS10/NLog.dll.d
+data/3rd party/NLog-master/src/NLogC.vs2008.sln.i
+data/BTFP Source/packages/NLog.4.3.6/lib/Xamarin.iOS10/NLog.dll.i
+data/3rd party/NLog-master/examples/targets/Configuration File/AutoFlushWrapper/NLog.config.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/StdAfx.h.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp/App.xaml.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLogTests.snk.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Network/NLog.config.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/content/portable-net40+win8+sl4+wp71+wpa81/_._.i
+data/BTFP Source/BaseClasses/outputq.h.i
+data/BTFP Source/VideoDevice/combase.cpp.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/WP71/LICENSE.txt.i
+data/3rd party/NLog-master/tests/NLog.Test/Config1.nlog.i
+data/3rd party/NLog-master/src/NLog/Internal/FileAppenders/SingleProcessFileAppender.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Multiple2/Example.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/tools/Microsoft.Bcl.Build.Tasks.dll.rej.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/Program.cs.i
+data/BTFP Source/BTFPVideoEncodingLibTest/Form1.Designer.cs.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/README.txt.i
+data/BTFP Source/BTFPVideoEncodingControls/ctrlAudioChannel.cs.i
+data/3rd party/GDCL Mp4 Demux/mp4demux.dll.i
+data/BTFP Source/DeckLink/DeckLinkAPI_i.c.i
+data/BTFP Source/AudioChannelSplitter/AudioChannelSplitter.h.i
+data/BTFP Source/BTFP Video Encoding/Resources/exit.png.i
+data/3rd party/NLog-master/examples/web/test.vbs.i
+data/BTFP Source/VideoDevice/VideoDevice_i.c.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.wp71.csproj.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/AspRequestValueLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/NLogDemo/Default.aspx.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/baseclasses.sln.old.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/MovieWriter.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Log4JXmlTests.cs.i
+data/3rd party/LAV Audio/avformat-lav-57.dll.d
+data/BTFP Source/packages/NLog.4.3.6/lib/wp8/NLog.dll.i
+data/3rd party/libP7/Sources/ClTextConsole.h.i
+data/BTFP Source/BaseClasses/winctrl.h.i
+data/3rd party/LAV Audio/avformat-lav-57.dll.i
+data/.hglf/3rd party/setup.zip.i
+data/3rd party/NLog-master/src/NLog/NLogConfigurationException.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/ProcessInfoProperty.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/PlatformDetector.cs.i
+data/3rd party/NLog-master/tools/MergeApiXml/Program.cs.i
+data/3rd party/NLog-master/src/NLog/Config/NLogConfigurationItemAttribute.cs.i
+data/BTFP Source/BTFP Video Encoding/ctrlEncodingJob.cs.i
+data/BTFP Source/Audio_Mixer/AudioMixerOutputPin.cpp.i
+data/3rd party/NLog-master/src/NLog/Targets/MailTarget.cs.i
+data/BTFP Source/DecklinkCaptureLib/BTFPTrimmer.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/BaseDirTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/App.xaml.cs.i
+data/BTFP Source/DirectShow Lib/BDATypes.cs.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/Program.cs.i
+data/3rd party/libP7/Examples/Cpp/Cpp_Example.vcxproj.i
+data/3rd party/NLog-master/src/NLog.netfx40.sln.i
+data/3rd party/NLog-master/examples/NLogDemo/Scripts/jquery-1.4.1-vsdoc.js.i
+data/3rd party/NLog-master/src/NLog.monodevelop.sln.i
+data/3rd party/NLog-master/tests/NLogReceiverService/crossdomain.xml.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.dll.config.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Wrappers/JsonEncodeTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Layouts/SimpleLayoutParserTests.cs.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/PasswordTextBox-Control.0.4.0.nupkg.i
+data/BTFP Source/packages/Xander.PasswordValidator.1.0.1/lib/net40/Xander.PasswordValidator.pdb.i
+data/3rd party/NLog-master/src/NuGet/NLog/NLog.nuspec.i
+data/BTFP Source/packages/NLog.4.3.3/lib/net45/NLog.xml.i
+data/BTFP Source/DeckLink/DeckLinkDevice.cpp.i
+data/BTFP Source/Decklink Capture/Properties/Resources.Designer.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/Module_i.h.i
+data/BTFP Source/BTFP Video Encoding Setup/BTFP Video Encoding Setup.isl.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/ProcessNameLayoutRenderer.cs.i
+data/BTFP Source/BTFPVideoEncodingLib/BTFPVideoEncodingLibConfiguration.cs.i
+data/3rd party/libP7/Sources/ClText.cpp.i
+data/3rd party/NLog-master/tools/bzip2.exe.i
+data/.hglf/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/DiskImages/DISK1/setup.exe.i
+data/3rd party/NLog-master/examples/targets/Configuration API/AutoFlushWrapper/Simple/Example.cs.i
+data/BTFP Source/BaseClasses/baseclasses.dsw.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PFile.h.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386_WithoutInstaller/ReadMe.txt.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionLoggerNameExpression.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Log4JXmlEventLayoutRenderer.cs.i
+data/BTFP Source/BTFP Video Encoding/Program.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/amextra.h.i
+data/BTFP Source/DecklinkCaptureLib/packages.config.i
+data/BTFP Source/DecklinkWrapperTest/Properties/Settings.Designer.cs.i
+data/BTFP Source/Decklink Capture/UIHelpers.cs.i
+data/BTFP Source/WavMeterEx/WavMeter.def.i
+data/BTFP Source/packages/NLog.4.3.6/lib/wp8/NLog.xml.i
+data/BTFP Source/AudioChannelSplitter/AudioChannelSplitterInputPin.cpp.i
+data/BTFP Source/DecklinkWrapperTest/Form1.cs.i
+data/BTFP Source/BaseClasses/strmctl.h.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386_WithoutInstaller/MediaInfo.dll.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/LogOnProviderType.cs.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386_WithoutInstaller/MediaInfo.dll.d
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetTrace/Global.asax.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/LayoutRendererAttribute.cs.i
+data/BTFP Source/BaseClasses/source.h.i
+data/BTFP Source/packages/NLog.4.3.6/lib/net45/NLog.xml.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ColoredConsole/Row Highlighting/ColoredConsole.Row Highlighting.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Internal/NetworkSenders/TcpNetworkSenderTests.cs.i
+data/3rd party/NLog-master/tools/bzip2.dll.i
+data/BTFP Source/Audio_Mixer/RingBuffer.cpp.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/RetryingTargetWrapper.cs.i
+data/BTFP Source/BaseClasses/streams.h.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net20/PasswordTextBoxControl.dll.i
+data/BTFP Source/packages/NLog.4.3.6/lib/net40/NLog.dll.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionRelationalExpression.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/SplitGroup/NLog.config.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/LogReceiverWebServiceTargetTests.cs.i
+data/3rd party/NLog-master/tools/Installer/LICENSE.txt.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MessageBox/Simple/Example.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/source/aac_reg.cpp.i
+data/BTFP Source/AudioMultiTrackDownMixer/AudioMultiTrackDownMixer.vcxproj.filters.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MessageBox/Simple/MessageBox.sln.i
+data/BTFP Source/BTFP Video Encoding/Form2.cs.i
+data/3rd party/NLog-master/src/NLog/NDC.cs.i
+data/BTFP Source/BTFP Video Encoding/Resources/ok_check_32.png.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetTrace/ASPNetTraceTest.csproj.i
+data/BTFP Source/Decklink Capture/Controls/Volume Trackbar/PointerControl.Designer.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/EnvironmentTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ColoredConsole/Word Highlighting/ColoredConsole.Word Highlighting.sln.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.vcproj.i
+data/3rd party/NLog-master/src/NLog.sl4.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Chainsaw/Simple/Chainsaw.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration File/ColoredConsole/Simple/NLog.config.i
+data/BTFP Source/DirectShow Lib/app.config.i
+data/3rd party/NLog-master/src/NLog/Common/InternalLogger.cs.i
+data/BTFP Source/VideoDevice/BaseVideoDevice.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Database/MSSQL/Example.cs.i
+data/3rd party/libP7/Tests/Speed/Speed.cpp.i
+data/BTFP Source/DirectShow Lib/DynGraph.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MSMQ/Simple/Example.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/content/sl4-windowsphone71/_._.i
+data/3rd party/NLog-master/src/NLog.Extended/LayoutRenderers/AspNetUserAuthTypeLayoutRenderer.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/CounterTests.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/measure.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FilteringWrapper/Simple/FilteringWrapper.csproj.i
+data/3rd party/NLog-master/src/NLog.netcf20.sln.i
+data/3rd party/NLog-master/src/NLog/Config/ConfigurationItemFactory.cs.i
+data/3rd party/NLog-master/tools/DumpApiXml/DocFileBuilder.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/NetworkTargetTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/FallbackGroupTargetTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.netfx35.csproj.i
+data/BTFP Source/Channel Downmixer/resource.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/MessageTests.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/FileAppenders/BaseFileAppender.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/AutoFlushWrapper/Simple/AutoFlushWrapper.sln.i
+data/BTFP Source/BTFPVideoEncodingControls/ctrlAudioChannel.resx.i
+data/3rd party/NLog-master/src/NLog/Layouts/CsvQuotingMode.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/mp4mux.rc.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/License-Stable.rtf.i
+data/BTFP Source/MediaFoundation/MFTransform.cs.i
+data/3rd party/NLog-master/examples/web/config12.nlog.i
+data/3rd party/NLog-master/src/Settings.StyleCop.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/outputq.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/GDCTests.cs.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/MainPage.xaml.cs.i
+data/BTFP Source/BTFP Video Encoding/ctrlEncodingJobList.Designer.cs.i
+data/3rd party/NLog-master/src/NLog.Extended/Targets/AspNetTraceTarget.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/wpa81/_._.i
+data/3rd party/NLog-master/src/NuGet/NLog.Extended/NLog.Extended.nuspec.i
+data/BTFP Source/Decklink Capture/app.config.i
+data/BTFP Source/Common/includes/DeckLinkAPITypes.idl.i
+data/3rd party/NLog-master/tests/NLogReceiverService/NLogReceiverService.sln.i
+data/3rd party/NLog-master/src/NLog/Internal/FileAppenders/IFileAppenderFactory.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests.Web/AssemblyInfo.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/LogLevelTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ColoredConsole/Word Highlighting/ColoredConsole.Word Highlighting.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive4/Example.cs.i
+data/BTFP Source/DirectShow Lib/Vmr9.cs.i
+data/BTFP Source/packages/NLog.4.3.6/lib/MonoAndroid10/NLog.xml.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/tools/Microsoft.Bcl.Build.targets.i
+data/3rd party/NLog-master/tools/generate_v1_overloads.pl.i
+data/3rd party/NLog-master/src/InstallNLogConfig/InstallNLogConfig.netfx20.csproj.i
+data/3rd party/NLog-master/src/NLog/Targets/FileArchivePeriod.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/EventLog/Simple/EventLog.sln.i
+data/3rd party/Dependecies/msvcr100.dll.d
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/Properties/Resources.resx.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Asynchronous/File.Asynchronous.csproj.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/NLogReceiver.svc.i
+data/3rd party/Dependecies/msvcr100.dll.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/SilverlightApplicationInfoOption.cs.i
+data/BTFP Source/BTFP Video Encoding/Resources/configuration.png.i
+data/BTFP Source/Decklink Capture/Resources/loop.png.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/WP7/Microsoft.Silverlight.Testing.dll.d
+data/BTFP Source/DirectShow Lib/DMODShow.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/ElemType.cpp.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/AsyncTargetWrapper.cs.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/WP7/Microsoft.Silverlight.Testing.dll.i
+data/BTFP Source/BaseClasses/source.cpp.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386.exe.i
+data/BTFP Source/BTFPVideoEncodingLibTest/app.config.i
+data/BTFP Source/Common/includes/DeckLinkAPIModes.idl.i
+data/BTFP Source/Decklink Capture/Resources/headphones.png.i
+data/3rd party/MediaInfo/MediaInfo_DLL_0.7.89_Windows_i386.exe.d
+data/BTFP Source/DirectShow Lib/Bdatif.cs.i
+data/3rd party/Audio Channel Downmixer/5.1 to stereo Quasi-Dolby Surround Pro Logic downmix.mixmatrix.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/App.xaml.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/wp8/System.IO.Compression.dll.i
+data/BTFP Source/MediaFoundation/MFUtils.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/File/Archive2/NLog.config.i
+data/3rd party/NLog-master/src/NLog/Layouts/CsvColumnDelimiterMode.cs.i
+data/BTFP Source/MediaFoundation/WMContainer.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/LogReceiverNLogConfig/__TemplateIcon.ico.i
+data/BTFP Source/BTFPVideoEncodingControls/ctrlEncodingParams.cs.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/Reports/12-7-2017 02-24-45.htm.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/NLogWindowsPhoneApplication.csproj.i
+data/BTFP Source/WavMeter/WavMeter.aps.i
+data/3rd party/NLog-master/src/NLog/NLog.netfx40.csproj.i
+data/3rd party/NLog-master/tests/SampleExtensions/MyTarget.cs.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/README.html.i
+data/BTFP Source/BaseClasses/renbase.cpp.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v10_6.idl.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/NLogSilverlightAppTestPage.html.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/IdentityTests.cs.i
+data/3rd party/NLog-master/examples/NLogDemo/Web.config.i
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PSystem.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/PostFilteringTargetWrapperTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Conditions/ConditionParserTests.cs.i
+data/3rd party/NLog-master/src/NLog/ComInterop/IComLogger.cs.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/NLog.BinaryCompatTests.netfx35.csproj.i
+data/BTFP Source/MediaFoundation/mfsharingengine.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/PostFilteringWrapper/Simple/Example.cs.i
+data/3rd party/NLog-master/tests/SampleExtensions/WhenFooFilter.cs.i
+data/3rd party/NLog-master/tests/webtest/global.asax.i
+data/3rd party/NLog-master/src/NLog/Internal/ReflectionHelpers.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/NLogViewer/NLog.config.i
+data/3rd party/NLog-master/src/Docs/Frameworks/Silverlight 3.0.shfbproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MSMQ/Simple/MSMQ.csproj.i
+data/BTFP Source/DirectShow Lib/VmRender.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/FileSystemNormalizeLayoutRendererWrapper.cs.i
+data/3rd party/NLog-master/src/Docs/Frameworks/.NET Framework 4.0.shfbproj.i
+data/3rd party/NLog-master/src/NLog/Config/MethodFactory.cs.i
+data/BTFP Source/DirectShow Lib/DShowNET.snk.i
+data/3rd party/NLog-master/examples/web/AddLayoutRenderer.cs.i
+data/BTFP Source/VideoDevice/BaseVideoDeviceMode.h.i
+data/3rd party/GDCL Mp4 Demux/mp4mux.dll.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/dllsetup.h.i
+data/3rd party/NLog-master/src/NLog.Extended/NLog.Extended.mono2.csproj.i
+data/BTFP Source/Decklink Capture/frmVideoTrimmer.Designer.cs.i
+data/3rd party/Monogram MP4 Mux/mmmp4mux.ax.i
+data/BTFP Source/DecklinkWrapperTest/Properties/Resources.Designer.cs.i
+data/3rd party/Monogram MP4 Mux/mmmp4mux.ax.d
+data/BTFP Source/BTFPVideoEncodingControls/ctrlAudioChannelsMap.resx.i
+data/3rd party/libP7/Tests/Trace/Readme.txt.i
+data/BTFP Source/MediaFoundation/MediaFoundation-2010.sln.i
+data/3rd party/NLog-master/src/NLog/NestedDiagnosticsContext.cs.i
+data/3rd party/LAV Audio/LAVVideo.ax.d
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetTrace/global.asax.i
+data/3rd party/LAV Audio/LAVVideo.ax.i
+data/3rd party/NLog-master/src/InstallNLogConfig/InstallNLogConfig.mono2.csproj.i
+data/BTFP Source/BTFPVideoEncodingLibTest/Properties/Settings.settings.i
+data/BTFP Source/AVPushSource/Utils.cpp.i
+data/3rd party/NLog-master/src/NLog/Logger-V1Compat.cs.i
+data/BTFP Source/MediaFoundation/EVR.cs.i
+data/BTFP Source/BTFP Video Encoding/frmEncodingInfo.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Filters/ConditionBasedFilterTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Contexts/NestedDiagnosticsContextTests.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/NLogViewerParameterInfo.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/WebCSharpNLogViewerNLogConfig.zip.i
+data/3rd party/NLog-master/src/NLog/Internal/ISmtpClient.cs.i
+data/BTFP Source/AudioDownMixer/AudioDownMixer.vcxproj.filters.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/Form1.resx.i
+data/3rd party/NLog-master/src/NLog/Internal/SortHelpers.cs.i
+data/3rd party/NLog-master/src/NLog.Extended/Targets/MessageQueueTarget.cs.i
+data/3rd party/NLog-master/tools/tar.exe.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/NLogDirLayoutRenderer.cs.i
+data/3rd party/NLog-master/tools/WebsiteFiles/docstyle.css.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/PageWithWarnings.aspx.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Null/Simple/Example.cs.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v7_6.idl.i
+data/BTFP Source/DirectShow Lib/Vidcap.cs.i
+data/3rd party/NLog-master/examples/targets/Screenshots/ColoredConsole/Row Highlighting.gif.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Layouts/CsvLayoutTests.cs.i
+data/BTFP Source/packages/Xander.PasswordValidator.1.0.1/lib/net40/Xander.PasswordValidator.dll.i
+data/3rd party/NLog-master/src/NLog/Internal/MultiFileWatcher.cs.i
+data/3rd party/libP7/Sources/Telemetry.h.i
+data/3rd party/NLog-master/src/NLog/NLog.netcf20.csproj.i
+data/3rd party/NLog-master/src/NLog/Targets/NLogViewerTarget.cs.i
+data/BTFP Source/packages/NLog.4.3.3/lib/wp8/NLog.dll.i
+data/3rd party/NLog-master/src/NLog.netcf35.vsmdi.i
+data/3rd party/NLog-master/src/LocalTestRun.vs2008.testrunconfig.i
+data/3rd party/NLog-master/src/NLog.netcf35.sln.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Database/Oracle.OleDb/Database.Oracle.OleDb.csproj.i
+data/3rd party/NLog-master/src/NLog/Internal/FileAppenders/ICreateFileParameters.cs.i
+data/3rd party/libP7/Shared/IMEvent.h.i
+data/3rd party/NLog-master/src/NLogC/resource.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.wp7.csproj.i
+data/3rd party/NLog-master/examples/web/MyFirstTarget.cs.i
+data/BTFP Source/BTFP Video Encoding/Form1.cs.i
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/WP71/Microsoft.Silverlight.Testing.dll.d
+data/3rd party/NLog-master/external/SilverlightUnitTestFramework/WP71/Microsoft.Silverlight.Testing.dll.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/LogFactoryTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Archive2/Example.cs.i
+data/BTFP Source/mm_aac_src_1.0.0.1/source/aac_filter.cpp.i
+data/3rd party/NLog-master/tools/DumpTestResultSummary/DumpTestResultSummary.csproj.i
+data/3rd party/libP7/Sources/ClBaical.cpp.i
+data/3rd party/libP7/Shared/CRC32.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Config/InternalLoggingTests.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/TargetWithFilterChain.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/File/Asynchronous/NLog.config.i
+data/BTFP Source/Decklink Capture/frmAbout.cs.i
+data/BTFP Source/Decklink Capture/frmMain.Designer.cs.i
+data/BTFP Source/DirectShow Lib/austream.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Compression.3.9.85/lib/portable-net45+win8+wp8+wpa81/System.IO.Compression.dll.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/resource.h.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/NLog.config.i
+data/BTFP Source/DeckLink/setup.cpp.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/Mpeg4.h.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Database/Oracle.Native/NLog.config.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PSignal.h.i
+data/BTFP Source/Common/includes/DeckLinkAPIStreaming.idl.i
+data/3rd party/NLog-master/tools/Stylesheets/style.css.i
+data/3rd party/NLog-master/examples/web/config4.nlog.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/TypeHandler.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/File/Multiple/Example.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/NetworkSenderFactory.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/Module.idl.i
+data/BTFP Source/AudioDownMixer/iAudioDownMixer.h.i
+data/BTFP Source/Audio_Mixer/AudioMixer.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FilteringWrapper/Simple/Example.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/SplitGroup/Simple/SplitGroup.csproj.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionParseException.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/pullpin.cpp.i
+data/3rd party/NLog-master/tests/NLogC.UnitTests/NLog.config.i
+data/3rd party/NLog-master/examples/targets/Configuration File/RandomizeGroup/NLog.config.i
+data/3rd party/NLog-master/src/NLog/Targets/TargetWithLayout.cs.i
+data/3rd party/libP7/Sources/TPackets.h.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PString.h.i
+data/BTFP Source/BTFP Video Encoding/frmAbout.Designer.cs.i
+data/BTFP Source/AudioChannelSplitter/AudioChannelSplitterOutputPin.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration File/BufferingWrapper/NLog.config.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Memory/NLog.config.i
+data/3rd party/NLog-master/src/NLogC.vs2010.sln.i
+data/BTFP Source/DecklinkCaptureLib/Filters/PushFilters.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/baseclasses.dsp.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MessageBox/Simple/MessageBox.csproj.i
+data/3rd party/NLog-master/src/NLogC/app.rc.i
+data/3rd party/NLog-master/src/NLog/Internal/PortableThreadIDHelper.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/pstream.cpp.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/cprop.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RandomizeGroup/Simple/RandomizeGroup.csproj.i
+data/3rd party/NLog-master/examples/targets/Configuration File/EventLog/NLog.config.i
+data/BTFP Source/DecklinkCaptureLib/Properties/AssemblyInfo.cs.i
+data/3rd party/NLog-master/tools/SilverlightConsoleRunner/SilverlightConsoleRunner.csproj.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/WrapperTargetBase.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/Properties/Settings.settings.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp.Web/Default.aspx.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Config/VariableTests.cs.i
+data/3rd party/libP7/Sources/P7Client.rc.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/RoundRobinGroupTarget.cs.i
+data/3rd party/NLog-master/examples/NLogSilverlightApp/MainPage.xaml.cs.i
+data/3rd party/NLog-master/src/NLog/LogReceiverService/LogReceiverServiceConfig.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/MovieWriter.cpp.i
+data/3rd party/NLog-master/src/NLog.Extended/NLog.Extended.netfx40.csproj.i
+data/3rd party/NLog-master/src/NLog/Internal/EnumerableHelpers.cs.i
+data/BTFP Source/MediaFoundation/Alt.cs.i
+data/3rd party/NLog-master/tests/NLog.VBTest/AssemblyInfo.vb.i
+data/3rd party/gdcl.co.uk-mpeg4-master/_Bin/GDCL-MPEG4CodecSetup.exe.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/JsonEncodeLayoutRendererWrapper.cs.i
+data/3rd party/NLog-master/src/NLog.Extended/Targets/Wrappers/AspNetBufferingTargetWrapper.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/_Bin/GDCL-MPEG4CodecSetup.exe.d
+data/3rd party/NLog-master/tests/NLog.UnitTests/LogLevelTests.cs.i
+data/3rd party/NLog-master/src/NLog/Layouts/LayoutAttribute.cs.i
+data/3rd party/NLog-master/src/NLog/Internal/EnvironmentHelper.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Wrappers/WhenEmptyTests.cs.i
+data/BTFP Source/packages/PasswordTextBox-Control.0.4.0/lib/net46/PasswordTextBoxControl.dll.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/LogEventInfoTests.cs.i
+data/3rd party/libP7/Examples/Cpp/Main.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Database/MSSQL/create_nlog_database.bat.i
+data/BTFP Source/Decklink Capture/Form1.Designer.cs.i
+data/BTFP Source/UpgradeLog.htm.i
+data/3rd party/NLog-master/src/build_nlogc.cmd.i
+data/3rd party/NLog-master/src/NLog/Config/Factory.cs.i
+data/BTFP Source/DecklinkCaptureLib/Filters/WavMeter.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Database/Oracle.Native/Database.Oracle.Native.csproj.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/PaddingLayoutRendererWrapper.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/MessageLayoutRenderer.cs.i
+data/3rd party/NLog-master/src/NLog.Extended/LayoutRenderers/AspNetSessionValueLayoutRenderer.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/SourceCodeTests.cs.i
+data/3rd party/libP7/Sources/Telemetry.cpp.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/ConsoleTargetTests.cs.i
+data/3rd party/Dependecies/msvcrt.dll.d
+data/3rd party/NLog-master/src/NLog/LogMessageGenerator.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/OutputDebugString/Simple/OutputDebugString.csproj.i
+data/3rd party/Dependecies/msvcrt.dll.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Config/ExtensionTests.cs.i
+data/BTFP Source/BTFP Video Encoding/Form2.resx.i
+data/BTFP Source/DirectShow Lib/Sbe.cs.i
+data/3rd party/NLog-master/src/NLog/NLogTraceListener.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/Properties/Resources.Designer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/WebService/WebService1/Service1.asmx.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/transfrm.h.i
+data/3rd party/NLog-master/examples/web/benchmark_nlog.cs.i
+data/3rd party/NLog-master/tests/SilverlightApp/SilverlightApp.sl4.csproj.i
+data/BTFP Source/BTFP Video Encoding/packages.config.i
+data/3rd party/libP7/Sources/Client.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/Properties/Settings.settings.i
+data/BTFP Source/Audio_Mixer/Logger.cpp.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/DateTests.cs.i
+data/3rd party/NLog-master/src/NuGet/NLog.Schema/NLog.Schema.nuspec.i
+data/3rd party/NLog-master/src/NLog/Common/AsyncContinuation.cs.i
+data/3rd party/NLog-master/examples/NLogDemo/NLog.png.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/NdcLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/NLogWindowsPhoneApplication/Background.png.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionMethodsAttribute.cs.i
+data/BTFP Source/DecklinkCaptureLib/Filters/MP4MuxFilter.cs.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplates/VisualBasicNLogViewerNLogConfig.zip.i
+data/3rd party/NLog-master/tests/NLog.ComInteropTests/NLog.ComInteropTest.cmd.i
+data/BTFP Source/Decklink Capture/frmMain.cs.i
+data/BTFP Source/Channel Downmixer/StereoDownmixerPropP2.cpp.i
+data/BTFP Source/Decklink Capture/Form1.resx.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.aps.i
+data/3rd party/NLog-master/examples/targets/Configuration File/RetryingWrapper/NLog.config.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PLock.h.i
+data/BTFP Source/BaseClasses/measure.h.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/XmlEncodeLayoutRendererWrapper.cs.i
+data/3rd party/NLog-master/src/NLog/GDC.cs.i
+data/3rd party/LAV Audio/swscale-lav-4.dll.d
+data/3rd party/LAV Audio/avresample-lav-3.dll.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Config/TargetConfigurationTests.cs.i
+data/3rd party/NLog-master/.gitignore.i
+data/3rd party/LAV Audio/swscale-lav-4.dll.i
+data/3rd party/NLog-master/src/NLog/Config/LoggingConfigurationReloadedEventArgs.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/CompoundTargetBase.cs.i
+data/BTFP Source/Channel Downmixer/StereoDownmixerPropP1.h.i
+data/BTFP Source/DeckLink/Filter.idl.i
+data/BTFP Source/DecklinkCaptureLib/VideoHelpers.cs.i
+data/BTFP Source/Decklink Capture/frmExporting.resx.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/EmptyNLogConfig/NLog.config.i
+data/3rd party/libP7/Sources/ClFile.cpp.i
+data/BTFP Source/packages/NLog.4.3.3/NLog.4.3.3.nupkg.d
+data/BTFP Source/MediaFoundation/MediaFoundation-2010.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LoggerTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/WordColoring/Properties/Settings.Designer.cs.i
+data/BTFP Source/BTFP Video Encoding/ctrlEncodingJobList.resx.i
+data/3rd party/NLog-master/src/NLog/Conditions/ConditionLevelExpression.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/wxdebug.h.i
+data/3rd party/NLog-master/tools/Installer/NLog.tt.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/OnExceptionLayoutRendererWrapper.cs.i
+data/BTFP Source/AudioChannelSplitter/AudioChannelSplitterInputPin.h.i
+data/BTFP Source/WavMeter/WavMeter.rc.i
+data/BTFP Source/DirectShow Lib/MediaParam.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/ApiTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/MSMQ/Multiple Queues/Example.cs.i
+data/BTFP Source/Decklink Capture/frmConfiguration.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/Database/MSSQL/drop_nlog_database.sql.i
+data/3rd party/NLog-master/src/NLog/Internal/NetworkSenders/SocketAsyncEventArgs.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Filters/WhenNotEqualTests.cs.i
+data/BTFP Source/WavMeter/WavMeter.vcxproj.i
+data/3rd party/NLog-master/examples/targets/Configuration API/WebService/Simple/WebService1/Properties/AssemblyInfo.cs.i
+data/BTFP Source/Channel Downmixer/StereoDownmixer.sln.i
+data/BTFP Source/packages/NLog.4.3.6/lib/net35/NLog.dll.i
+data/BTFP Source/packages/NLog.4.3.6/lib/net35/NLog.dll.d
+data/3rd party/NLog-master/src/NLog/Filters/ConditionBasedFilter.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/sysclock.cpp.i
+data/BTFP Source/Decklink Capture Setup/BTFP Video Capture Setup/Express/SingleImage/Reports/1-12-2018 08-52-07.htm.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/Rot13LayoutRendererWrapper.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/WebServiceTarget.cs.i
+data/BTFP Source/VideoDevice/resource.h.i
+data/3rd party/NLog-master/tools/RunXap/Properties/AssemblyInfo.cs.i
+data/BTFP Source/DirectShow Lib/QEdit.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/License-Stable.rtf.i
+data/3rd party/NLog-master/src/Docs/NLog.shfbproj.i
+data/3rd party/libP7/Tests/Trace/CMakeLists.txt.i
+data/BTFP Source/packages/NLog.4.3.6/lib/MonoAndroid10/NLog.dll.i
+data/BTFP Source/Decklink Capture/frmConfiguration.resx.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/Properties/Resources.Designer.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLog.UnitTests.sl3.csproj.i
+data/BTFP Source/DecklinkWrapperTest/DecklinkWrapperTest.csproj.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/mp4mux.vcxproj.filters.i
+data/BTFP Source/BaseClasses/seekpt.cpp.i
+data/3rd party/NLog-master/examples/targets/Configuration File/AsyncWrapper/NLog.config.i
+data/3rd party/Windows Media Lib/src/WMUtils.cs.i
+data/3rd party/NLog-master/src/NLog/LogLevel.cs.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v10_8.idl.i
+data/BTFP Source/WavMeterEx/WavMeter_i.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/RegressionTests.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/FileTargetTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/Form1.cs.i
+data/BTFP Source/Audio_Mixer/AudioMixer.def.i
+data/3rd party/NLog-master/examples/targets/Configuration API/OutputDebugString/Simple/Example.cs.i
+data/BTFP Source/AVPushSource/setup.cpp.i
+data/3rd party/x264/mmx264.ax.i
+data/BTFP Source/Common/includes/DeckLinkAPI_v10_4.idl.i
+data/BTFP Source/DecklinkCaptureLib/NativeHelpers.cs.i
+data/3rd party/NLog-master/src/NLog/NLogRuntimeException.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/BufferingWrapper/Simple/Example.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/StdAfx.h.i
+data/3rd party/NLog-master/examples/web/AddFilter.cs.i
+data/BTFP Source/DeckLink/VideoProperty.cpp.i
+data/3rd party/NLog-master/tools/fix_filenames.pl.i
+data/BTFP Source/BaseClasses/winctrl.cpp.i
+data/BTFP Source/BaseClasses/combase.h.i
+data/BTFP Source/Decklink Capture/Controls/Volume Trackbar/SixChannelTrackbar.Designer.cs.i
+data/3rd party/NLog-master/tests/DeleteTestUsers.cmd.i
+data/3rd party/libP7/Shared/WString.h.i
+data/3rd party/NLog-master/src/NLog.Extended/NLog.Extended.netfx35.csproj.i
+data/3rd party/libP7/Examples/C#/Properties/Settings.settings.i
+data/3rd party/NLog-master/src/NLog.Extended/NLog.Extended.monodevelop.csproj.i
+data/3rd party/NLog-master/src/NLog/Internal/IRenderable.cs.i
+data/BTFP Source/DirectShow Lib/dvbsiparser.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/Global.asax.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration File/ASPNetBufferingWrapper/web.nlog.i
+data/3rd party/NLog-master/tools/MakeNLogXSD/Program.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/SecurityImpersonationLevel.cs.i
+data/3rd party/NLog-master/tests/NLogReceiverService/NLogReceiverService.csproj.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/LayoutRenderers/Wrappers/FileSystemNormalizeTests.cs.i
+data/3rd party/NLog-master/tools/DeployNetCF.exe.i
+data/3rd party/NLog-master/examples/targets/Configuration API/Database/MSSQL/Database.MSSQL.sln.i
+data/3rd party/NLog-master/tools/Installer/NLog.ico.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/FilteringTargetWrapperTests.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/Wrappers/RandomizeGroupTarget.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4demux/Module_i.c.i
+data/3rd party/NLog-master/examples/targets/Configuration API/FormControl/Properties/AssemblyInfo.cs.i
+data/BTFP Source/DecklinkCaptureLib/Filters/IMonogramx264.cs.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/NLogTestBase.cs.i
+data/3rd party/gdcl.co.uk-mpeg4-master/BaseClasses/renbase.h.i
+data/3rd party/Windows Media Lib/readme.txt.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RichTextBox/Simple/Properties/Resources.Designer.cs.i
+data/3rd party/NLog-master/tests/NLog.BinaryCompatTests/LoggerTests.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetBufferingWrapper/ASPNetBufferingWrapper.sln.i
+data/3rd party/NLog-master/src/VSIntegration/ItemTemplatesGenerator/ConsoleNLogConfig/MyTemplate.vstemplate.i
+data/3rd party/NLog-master/src/NLog.netfx35.vsmdi.i
+data/3rd party/Windows Media Lib/src/MMIO.cs.i
+data/3rd party/NLog-master/examples/ExtendingLoggers/InheritFromLogger/NLog.config.i
+data/3rd party/NLog-master/src/NLog/Internal/AspHelper.cs.i
+data/BTFP Source/Decklink Capture/Resources/pointer_up_large.bmp.i
+data/BTFP Source/DeckLink/Log.cpp.i
+data/BTFP Source/BTFP Video Encoding/Resources/BTFP Logo.png.i
+data/BTFP Source/packages/NLog.4.3.3/lib/sl4/NLog.xml.i
+data/BTFP Source/packages/NLog.4.3.6/lib/net35/NLog.xml.i
+data/3rd party/NLog-master/tools/Installer/NLog.wxs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/GuidLayoutRenderer.cs.i
+data/3rd party/NLog-master/examples/targets/Configuration API/ASPNetTrace/ASPNetTraceTest.sln.i
+data/3rd party/libP7/Tests/Speed/Speed.vcxproj.filters.i
+data/BTFP Source/BaseClasses/wxutil.cpp.i
+data/BTFP Source/DirectShow Lib/encdec.cs.i
+data/3rd party/libP7/Tests/Speed/makefile.i
+data/1_11 CAP_TEST/Scattered.png.i
+data/3rd party/NLog-master/build.cmd.i
+data/BTFP Source/BTFP Video Encoding/SystemResources.cs.i
+data/3rd party/NLog-master/src/NLog/Resources/NLog.ico.i
+data/3rd party/libP7/Sources/resource.h.i
+data/3rd party/NLog-master/tests/NLog.UnitTests/Targets/Wrappers/RoundRobinGroupTargetTests.cs.i
+data/BTFP Source/packages/Microsoft.Bcl.Build.1.0.14/content/netcore45/_._.i
+data/BTFP Source/DeinterlaceFilter/DeinterlaceFilter_i.h.i
+data/3rd party/libP7/Sources/CommonClient.h.i
+data/BTFP Source/Decklink Capture/Controls/Vu Meter/ucVULED.cs.i
+data/3rd party/NLog-master/tools/DeployNetCF/Program.cs.i
+data/BTFP Source/DecklinkCaptureLib/MsgOnlyWindow.cs.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/LowercaseLayoutRendererWrapper.cs.i
+data/3rd party/libP7/Shared/Platforms/Linux_x86/PProcess.h.i
+data/3rd party/gdcl.co.uk-mpeg4-master/mp4mux/logger.h.i
+data/3rd party/NLog-master/examples/targets/Configuration API/RoundRobinGroup/Simple/RoundRobinGroup.sln.i
+data/3rd party/NLog-master/examples/NLogDemo/NLogDemo.csproj.i
+data/3rd party/NLog-master/src/NLog/LogFactory.cs.i
+data/3rd party/NLog-master/src/NLog/Targets/ConsoleWordHighlightingRule.cs.i
+data/3rd party/NLog-master/examples/targets/Screenshots/ASPNetTrace/ASPNetTraceOutput1.gif.i
+data/1_11 CAP_TEST/Jan_11_Test_.mp4.d
+data/3rd party/libP7/Shared/Platforms/Windows_x86/PThreadShell.h.i
+data/3rd party/libP7/Sources/ClNull.cpp.i
+data/3rd party/NLog-master/src/NLog/LayoutRenderers/Wrappers/CachedLayoutRendererWrapper.cs.i
+data/BTFP Source/MediaFoundation/dxvahd.cs.i
+data/3rd party/NLog-master/src/ResharperSettings.xml.i
+data/3rd party/NLog-master/examples/targets/Configuration File/WebService/WebService1/Web.config.i
+data/BTFP Source/BaseClasses/amextra.cpp.i
+data/BTFP Source/DirectShow Lib/amvideo.cs.i

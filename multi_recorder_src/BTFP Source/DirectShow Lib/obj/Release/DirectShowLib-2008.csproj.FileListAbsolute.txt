@@ -1,0 +1,5 @@
+E:\multi_recorder_src\BTFP Source\DirectShow Lib\bin\Release\DirectShowLib-2005.dll.config
+E:\multi_recorder_src\BTFP Source\DirectShow Lib\bin\Release\DirectShowLib-2005.dll
+E:\multi_recorder_src\BTFP Source\DirectShow Lib\obj\Release\DirectShowLib-2008.csprojAssemblyReference.cache
+E:\multi_recorder_src\BTFP Source\DirectShow Lib\obj\Release\DirectShowLib-2008.csproj.CoreCompileInputs.cache
+E:\multi_recorder_src\BTFP Source\DirectShow Lib\obj\Release\DirectShowLib-2005.dll

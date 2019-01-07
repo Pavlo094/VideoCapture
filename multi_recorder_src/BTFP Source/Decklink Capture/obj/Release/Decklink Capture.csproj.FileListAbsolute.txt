@@ -1,0 +1,18 @@
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink Capture.csprojAssemblyReference.cache
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink Capture.csproj.ResolveComReference.cache
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.RangeBar.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.PointerControl.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.SingleTrackBar.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.SixChannelTrackbar.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.ucBase.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.ucLED.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.ucVUMeter.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.Password.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.frmAbout.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.frmConfiguration.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.frmExporting.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.frmMain.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.frmVideoTrimmer.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink_Capture.Properties.Resources.resources
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink Capture.csproj.GenerateResource.cache
+E:\multi_recorder_src\BTFP Source\Decklink Capture\obj\Release\Decklink Capture.csproj.CoreCompileInputs.cache

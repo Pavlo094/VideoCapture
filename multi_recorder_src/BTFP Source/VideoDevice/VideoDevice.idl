@@ -1,0 +1,154 @@
+/*import "oaidl.idl";
+import "ocidl.idl";
+*/
+
+import "unknwn.idl";
+
+// VideoDeviceConfig Public Library
+[
+	uuid(31E1C420-5E88-4667-8A36-761733A3B348),
+    version(1.0),
+	helpstring("Video Device Config")
+]
+library VideoDeviceConfig
+{
+
+	typedef [v1_enum] enum _EFieldOrder
+	{
+		foDefault				= 0,
+		foProgressive			= 0,
+		foUpFieldFirst			= 1 << 1,
+		foLowFieldFirst			= 1 << 2,
+		foProgressiveSegmented	= 1 << 3
+	} EFieldOrder;
+
+	typedef [v1_enum] enum _EPixelFormat
+	{
+		pfDefault	= 0x00000000,
+		pfYUV2		= 0x32767579,
+		pfYUYV		= 0x76797579,
+		pfUYVY		= 0x79767975,
+		pfV210		= 0x76323130,
+		pfARGB		= 32,
+		pfBGRA		= 0x42475241,
+		pfR210		= 0x72323130,
+		pfYV12		= 0x32315659,
+	} EPixelFormat;
+
+
+	typedef [v1_enum] enum _EStereoMode
+	{
+		smDefault			= 0,
+		smLeft				= 0,
+		smRight				= 1 << 1,	
+		smSideBySideHalf	= 1 << 2,
+		smTopAndBottomHalf	= 1 << 3,
+		smSideBySide		= 1 << 4,
+		smTopAndBottom		= 1 << 5,
+		smLineByLine		= 1 << 6,
+		smLineByLineLeft	= 1 << 6,
+		smLineByLineRight	= 1 << 7,
+		smAnaglyph			= 1 << 8
+	} EStereoMode;
+
+
+	typedef [v1_enum] enum	_EVideoConnectionType {
+		vctDefault							= 1 << 4,
+		vctSDI                              = 1 << 0,
+		vctHDMI                             = 1 << 1,
+		vctOpticalSDI                       = 1 << 2,
+		vctComponent                        = 1 << 3,
+		vctComposite                        = 1 << 4,
+		vctSVideo                           = 1 << 5
+	} EVideoConnectionType;
+
+
+	interface IVideoDeviceMode;
+	interface IVideoDeviceModeIterator;
+	interface IVideoDevice;
+	interface IVideoDeviceHolder;
+
+	[
+		object,
+		uuid(D22D583C-C2EA-4d39-B899-584189E8ADD1),
+		helpstring("Video device properties container.")
+	] interface IVideoDeviceMode : IUnknown
+	{
+		const int		GetWidth(void) const;
+		const int		GetHeight(void) const;	
+		HRESULT			SetWidth([in] const int width);
+		HRESULT			SetHeight([in] const int height);
+
+		const int		GetBpp(void) const;
+		HRESULT			SetBpp([in] const int bpp);
+
+		EPixelFormat	GetPixelFormat(void) const;
+		HRESULT			SetPixelFormat([in] const EPixelFormat pixelFormat);
+
+		EFieldOrder		GetFieldOrder(void) const;
+		HRESULT			SetFieldOrder([in] const EFieldOrder fieldOrder);
+
+		HRESULT			SetTimeUnitsPerSecond([in] const DWORD unitsCount);
+		const DWORD		GetFrameDuration(void) const; // frame duration in specified units
+		const double	GetFramesPerSecond(void) const;
+		HRESULT			SetFrameDuration([in] const DWORD frameDuration); // frame duration in specified units
+		HRESULT			SetFramesPerSecond([in] const DWORD framesCount);
+		
+		EStereoMode		GetStereoMode(void) const;
+		HRESULT			SetStereoMode([in] const EStereoMode stereoMode);
+
+		EVideoConnectionType GetConnectionType(void) const;
+		HRESULT			SetConnectionType([in] const EVideoConnectionType connectionType);
+
+		HRESULT			Compare([in] IVideoDeviceMode *pMode);
+	};
+
+
+	[
+		object,
+		uuid(DCFF34D8-2C19-4e0d-9E1A-8DC8D208748B),
+		helpstring("Video device modes iterator.")
+	] interface IVideoDeviceModeIterator : IUnknown
+	{
+		HRESULT	Next([out] IVideoDeviceMode **pVideoMode);
+	};
+
+
+
+	[
+		object,
+		uuid(D55A1F71-CFE7-4dd7-BFF8-C6DEA3A1BCB3),
+		helpstring("Video device.")
+	] interface IVideoDevice : IUnknown
+	{
+		HRESULT			IsVideoModeSupported([in] IVideoDeviceMode *videoMode) const; 
+		/* return: 
+			S_OK		- mode is supported;
+			S_FALSE		- mode isn't supported; 
+			E_POINTER	- videoMode == NULL;
+		*/
+
+		HRESULT			UpdateVideoModes(void);
+		HRESULT			GetModesIterator([out] IVideoDeviceModeIterator **pIterator) const;
+
+		HRESULT			SetVideoMode([in] IVideoDeviceMode *videoMode);
+		HRESULT			GetCurrentVideoMode([out] IVideoDeviceMode **pVideoMode) const;
+		/* return:
+			S_FALSE		- mode has never been setted; *pVideoMode is setted to NULL;
+			E_POINTER	- pVideoMode == NULL;
+		*/
+
+		HRESULT			GetDeviceName([out] BSTR *name);
+	};	
+
+	[
+		object,
+		uuid(99A44D89-9EC9-40ab-A8A8-F145D1D5FC57),
+		helpstring("Video device holder.")
+	] interface IVideoDeviceHolder : IUnknown
+	{
+		HRESULT LockDevice(IVideoDevice **ppDevide);
+		HRESULT UnLockDevice();
+		HRESULT Save();
+	};
+}

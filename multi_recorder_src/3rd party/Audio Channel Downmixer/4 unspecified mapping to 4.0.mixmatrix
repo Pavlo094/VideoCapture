@@ -1,0 +1,37 @@
+1
+0	1
+0
+0
+0	0	1
+0	0	0	1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Channel Downmixer by Trombettworks - Matrix for remapping a 4.0 source without channelmask to 4.0 with channelmask
+
+The Vorbis directshow decoder does not set any channelmask. This is OK for 1, 2 and 6 channels, which are anyway recognized as mono, stereo, and 5.1.
+
+But for 4 channels, due to the Windows definitions of multichannel wave formats, a 4 channels source without channelmask (channelmask = "information to map each sound to its correct speaker")  is interpreted as FrontLeft, FrontRight, FrontCenter and SubWoofer (=3.1) . If you know that the current 4channel output of vorbis decoder is in facts a 4.0 , use this custom matrix to remap it to 4.0 .
+
+This custom matrix is ONLY to be used if you have a soundcard with 4.0 output or superset of that, and ONLY if you know that the 4 channels at the input of the Channel Downmixer are really a 4.0 without channelmask. 
+
+If the physical output of your soundcard is Mono, Stereo, or 3.x , use the default downmix matrix, not this one.
+
+If the source is anything else than a "4.0 without channelmask" , use the internal downmix matrix, not this one.
+
+On the contrary, forgetting to use this custom matrix when you should, will result in sounds playing in the wrong speakers (5.1 outputs and above), or sounds unnecessarily downmixed to the front speakers (4.0 physical output).
+
+Regards
+Gabriele Trombetti

@@ -1,0 +1,92 @@
+/*
+ * DecklinkInterface.idl
+ * Copyright (c) 2004 Blackmagic Design Pty Ltd.  All rights reserved.
+ */
+
+import "unknwn.idl";
+//import "strmif.idl";
+
+
+// Decklink Public Library
+[
+	uuid(88715AD6-85BC-43ca-ADD7-88F2662515DD),
+    version(1.0),
+	helpstring("Blackmagic Design DirectShow Type Library")
+]
+library DecklinkDSLib
+{
+    importlib("stdole32.tlb");
+    importlib("stdole2.tlb");
+
+
+	//-----------------------------------------------------------------------------
+	// Video capture objects
+	[
+		uuid(5DA49F6D-E638-4A55-BCAE-1EDA48869B89)
+	]
+	coclass DecklinkVideoCaptureFilter
+	{
+		[default] interface IUnknown;
+	};
+
+
+	// property page for video capture
+	[
+		uuid(0B3E91CA-E153-44C4-A891-E30BC37890CB)
+	]
+	coclass DecklinkVideoCaptureProperties
+	{
+		[default] interface IUnknown;
+	};
+
+	//-----------------------------------------------------------------------------
+	// New media type GUID's
+	[
+		uuid(30313276-0000-0010-8000-00AA00389B71),
+		version(1.0)
+	]
+	interface MEDIASUBTYPE_v210a
+	{
+	};
+
+	[
+		uuid(30313272-0000-0010-8000-00AA00389B71),
+		version(1.0)
+	]
+	interface MEDIASUBTYPE_r210
+	{
+	};
+
+	[
+		uuid(41524742-0000-0010-8000-00AA00389B71),
+		version(1.0)
+	]
+	interface MEDIASUBTYPE_BGRA32
+	{
+	};
+
+
+	
+	//-----------------------------------------------------------------------------
+	// Audio capture objects
+	[
+		uuid(F1006F2E-E81C-44bf-B245-0930A1388DD6)
+	]
+	coclass DecklinkAudioCaptureFilter
+	{
+		[default] interface IUnknown;
+	};
+
+	// property page for audio capture
+	[
+		uuid(DF1553E9-2E09-4ce5-8FE4-CA9EE367BA26)
+	]
+	coclass DecklinkAudioCaptureProperties
+	{
+		[default] interface IUnknown;
+	};
+
+};
+
+
+

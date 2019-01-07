@@ -1,0 +1,41 @@
+import "oaidl.idl";
+import "ocidl.idl";
+#include "olectl.h"
+
+[
+	uuid(B259B55F-F389-46b7-8B38-42E020EE0BA9),
+	version(1.0)
+]
+library RGBFiltersLib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	
+
+	[
+		uuid(EF7E081F-59CF-4732-89BD-5375F5548587)
+	]
+	coclass StereoTransform4DeckLink
+	{
+		[default] interface IUnknown;
+	};
+
+	[
+		uuid(92541934-95FD-46e4-A7F7-53A30451E8DC)
+	]
+	coclass DeckLinkHDStereoSource
+	{
+		[default] interface IUnknown;
+	};
+
+	[
+		object,
+		uuid(2ECEB259-1516-4957-A701-A153716AA221),
+		helpstring("Video device.")
+	] interface IDeckLinkSourceConfig : IUnknown
+	{
+		HRESULT SetDeviceName([in] BSTR name);
+		HRESULT SetVideoMode([in] int width, [in] int height, [in] long long avgFrameDuration, [in] int fieldOrder);
+	};	
+}

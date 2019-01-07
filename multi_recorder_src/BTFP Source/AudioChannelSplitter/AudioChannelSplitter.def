@@ -1,0 +1,12 @@
+;===========================================================================
+;  AudioChannelSplitter exports
+;===========================================================================
+
+LIBRARY     AudioChannelSplitter.ax
+
+EXPORTS
+            DllMain                 PRIVATE
+            DllGetClassObject       PRIVATE
+            DllCanUnloadNow         PRIVATE
+            DllRegisterServer       PRIVATE
+            DllUnregisterServer     PRIVATE

@@ -1,0 +1,43 @@
+1	0	0.70710678118	0.70710678118	0.70710678118	0.70710678118
+0	1	0.70710678118	0.70710678118	-0.70710678118	-0.70710678118
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1 to stereo Quasi-Dolby Surround Pro Logic downmix
+
+5.1 input, stereo output, downmix similar to the one performed by hardware Dolby Surround Pro Logic (R) encoders.
+The two back speakers are to be summed together. The result is to be added half power to FL, and half power inverted phase to FR.
+
+0.70710678118 is the square root of 0.5, that is, the factor needed to halven the sound power.
+
+This is the algorithm as posted by S_O in the everwicked.com forum (thanks to S_O for this):
+
+FL = FL + 0.707(FC + FLC + FRC) + 0.707(RL + RR) + 0.707 LF
+FR = FR + 0.707(FC + FLC + FRC) - 0.707(RL + RR) + 0.707 LF
+
+
+To make a full Dolby Surround Pro Logic (R) downmix you would need to add a 7KHz lowpass to (RL+RR) before mixing it and also a Dolby B noise reduction step (not possible to do this within my Channel Downmixer)
+
+Dolby Pro Logic (R) whitepaper:
+http://dolbysearch.dolby.com/tech/whtppr.html
+
+Schema of the encoder:
+http://dolbysearch.dolby.com/graphics/img/fig01-60.jpg
+
+Regards
+Gabriele Trombetti

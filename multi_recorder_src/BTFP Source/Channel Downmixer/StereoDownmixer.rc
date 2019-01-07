@@ -1,0 +1,555 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#define APSTUDIO_HIDDEN_SYMBOLS
+#include "windows.h"
+#undef APSTUDIO_HIDDEN_SYMBOLS
+//#include "ver.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x30003fL
+#ifdef _DEBUG
+ FILEFLAGS 0xbL
+#else
+ FILEFLAGS 0xaL
+#endif
+ FILEOS 0x10001L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904e4"
+        BEGIN
+            VALUE "ActiveMovie", "Filter dll\0"
+            VALUE "Comments", "\0"
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "Channel Downmixer by Trombettworks\0"
+            VALUE "FileVersion", "1.00\0"
+            VALUE "InternalName", "StereoDownmixer\0"
+            VALUE "LegalCopyright", "Freeware Opensource by Gabriele Trombetti http://www.trombetworks.com\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OLESelfRegister", "AM20\0"
+            VALUE "OriginalFilename", "ChannelDownmixer.ax\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "Channel Downmixer\0"
+            VALUE "ProductVersion", "1.00\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
+
+#endif    // !_MAC
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "#include ""windows.h""\r\n"
+    "#undef APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "#include ""ver.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_PROPERTIES_PAGE1 DIALOG DISCARDABLE  0, 0, 446, 308
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Raise merit and allow only one instance (to have the filter loaded even when the renderer already accepts multichannel formats)",
+                    IDC_CHECK_RAISE_FILTER_MERIT,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,39,430,10
+    EDITTEXT        IDC_EDIT_CURRENT_INPUT,53,52,163,12,ES_AUTOHSCROLL | 
+                    WS_DISABLED
+    EDITTEXT        IDC_EDIT_CURRENT_OUTPUT,272,52,163,12,ES_AUTOHSCROLL | 
+                    WS_DISABLED
+    CONTROL         "Allow any input bit depth",
+                    IDC_RADIO_ALLOW_ANY_INPUT_BIT_DEPTH,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,10,72,93,10
+    CONTROL         "Require 8 bits per sample (1 to 8 valid bits)",
+                    IDC_RADIO_REQUIRE_1_BYTE,"Button",BS_AUTORADIOBUTTON,10,
+                    82,149,10
+    CONTROL         "Require 16 bits per sample (9 to 16 valid bits)",
+                    IDC_RADIO_REQUIRE_2_BYTES,"Button",BS_AUTORADIOBUTTON,10,
+                    92,157,10
+    CONTROL         "Require 24 bits per sample (17 to 24 valid bits)",
+                    IDC_RADIO_REQUIRE_3_BYTES,"Button",BS_AUTORADIOBUTTON,10,
+                    102,161,10
+    CONTROL         "Require 32 bits per sample (25 to 32 valid bits)",
+                    IDC_RADIO_REQUIRE_4_BYTES,"Button",BS_AUTORADIOBUTTON,10,
+                    112,161,10
+    CONTROL         "Allow any number of input channels",
+                    IDC_RADIO_ALLOW_ANY_INPUT_NUMBER_OF_CHANNELS,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,235,73,127,10
+    CONTROL         "Require this number of input channels",
+                    IDC_RADIO_REQUIRE_NUMBER_OF_INPUT_CHANNELS,"Button",
+                    BS_AUTORADIOBUTTON,235,83,135,10
+    EDITTEXT        IDC_EDIT_REQUIRE_NUMBER_OF_INPUT_CHANNELS,372,80,30,12,
+                    ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "Allow any input samplerate",
+                    IDC_RADIO_ALLOW_ANY_INPUT_SAMPLERATE,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,235,102,99,10
+    CONTROL         "Require input samplerate of",
+                    IDC_RADIO_REQUIRE_INPUT_SAMPLERATE,"Button",
+                    BS_AUTORADIOBUTTON,235,112,100,10
+    EDITTEXT        IDC_EDIT_REQUIRE_INPUT_SAMPLERATE,339,110,35,12,
+                    ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "8 bits (WAVE_FORMAT_PCM)",IDC_RADIO_8BITS,"Button",
+                    BS_AUTORADIOBUTTON | BS_LEFT | BS_PUSHLIKE | BS_FLAT | 
+                    WS_GROUP,10,139,137,11
+    CONTROL         "16 bits (WAVE_FORMAT_PCM)",IDC_RADIO_16BITS,"Button",
+                    BS_AUTORADIOBUTTON | BS_LEFT | BS_PUSHLIKE | BS_FLAT,10,
+                    150,137,10
+    CONTROL         "24 bits (WAVE_FORMAT_EXTENSIBLE)",IDC_RADIO_24BITS,
+                    "Button",BS_AUTORADIOBUTTON | BS_LEFT | BS_PUSHLIKE | 
+                    BS_FLAT,10,160,137,10
+    CONTROL         "32 bits (WAVE_FORMAT_EXTENSIBLE)",IDC_RADIO_32BITS,
+                    "Button",BS_AUTORADIOBUTTON | BS_LEFT | BS_PUSHLIKE | 
+                    BS_FLAT,10,170,137,10
+    CONTROL         "Mono (WAVE_FORMAT_PCM)",IDC_RADIO_SPK_MONO,"Button",
+                    BS_AUTORADIOBUTTON | BS_LEFT | BS_PUSHLIKE | BS_FLAT | 
+                    WS_GROUP,160,139,109,11
+    CONTROL         "Stereo (WAVE_FORMAT_PCM)",IDC_RADIO_SPK_STEREO,"Button",
+                    BS_AUTORADIOBUTTON | BS_LEFT | BS_PUSHLIKE | BS_FLAT,160,
+                    150,109,10
+    CONTROL         "Multichannel (WAVE_FORMAT_EXTENSIBLE)",
+                    IDC_RADIO_SPK_MULTICHANNEL,"Button",BS_AUTORADIOBUTTON | 
+                    BS_LEFT | BS_PUSHLIKE | BS_FLAT,160,160,158,10
+    CONTROL         "Front Left and Front Right speakers (2.x spk configs and above - can't disable)",
+                    IDC_CHECK_SPK_FL_FR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,170,172,262,10
+    CONTROL         "Back Left and Back Right speakers (5.x spk configs and above)",
+                    IDC_CHECK_SPK_BL_BR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,170,182,218,10
+    CONTROL         "Front Center speaker (3.x, 5.x and 7.x speaker configurations and above)",
+                    IDC_CHECK_SPK_FC,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    170,192,245,10
+    CONTROL         "Subwoofer (x.1 speaker configurations)",
+                    IDC_CHECK_SPK_LF,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    170,201,139,10
+    CONTROL         "Front Left of Center and Front Right of Center speakers (7.x spk configs and up)",
+                    IDC_CHECK_SPK_FLC_FRC,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,170,211,266,10
+    CONTROL         "Back Center speaker (Dolby Surround, 8.x spk configs and above)",
+                    IDC_CHECK_SPK_BC,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    170,220,225,10
+    CONTROL         "Side Left and Side Right speakers (10.x spk configs and above)",
+                    IDC_CHECK_SPK_SL_SR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,170,230,217,10
+    CONTROL         "Top Center speaker (11.x spk configs and above)",
+                    IDC_CHECK_SPK_TC,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    170,240,172,10
+    CONTROL         "Top Front Center speaker (12.x, 14.x spk configs and above)",
+                    IDC_CHECK_SPK_TFC,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    170,249,207,10
+    CONTROL         "Top Front Left and Top Front Right speakers (13.x spk configs and above)",
+                    IDC_CHECK_SPK_TFL_TFR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,170,259,250,10
+    CONTROL         "Top Back Center speaker (15.x and 17.x spk configs)",
+                    IDC_CHECK_SPK_TBC,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    170,269,184,10
+    CONTROL         "Top Back Left and Top Back Right speakers (16.x spk configs and above)",
+                    IDC_CHECK_SPK_TBL_TBR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,170,279,251,10
+    LTEXT           "Channel Downmixer V 2.00 Beta3 by Trombettworks - http://www.trombettworks.com\nFreeware. Sources might be available at www.trombettworks.com. No warranties.",
+                    IDC_STATIC,10,0,390,16
+    LTEXT           "Accepts any multichannel ( = WAVE_FORMAT_EXTENSIBLE ) input with 32 bits per sample or less and with a 17.1 speaker configuration or a subset of that. Allows you to downmix to most speakers configurations and bits per sample.",
+                    IDC_STATIC,10,19,420,16
+    LTEXT           "Current input",IDC_STATIC,10,54,41,8
+    LTEXT           "Current output",IDC_STATIC,223,54,46,8
+    LTEXT           "",IDC_STATIC,10,68,425,1,SS_SUNKEN
+    LTEXT           "Input requirements",IDC_STATIC,169,71,59,8
+    LTEXT           "samples / sec",IDC_STATIC,379,112,53,8
+    LTEXT           "",IDC_STATIC,10,125,425,1,SS_SUNKEN
+    LTEXT           "Output bits per sample",IDC_STATIC,11,130,71,8
+    LTEXT           "Output speaker configuration",IDC_STATIC,160,129,92,8
+    LTEXT           "WAVE_FORMAT_EXTENSIBLE will be used for output if either the requested output bit depth or speaker configuration requires it. Otherwise WAVE_FORMAT_PCM will be used.",
+                    IDC_STATIC_BOTTOM_NOTICE_1,10,192,140,34
+    LTEXT           "A WAVE_FORMAT_PCM sound can be played on every soundcard, but you will probably need a multichannel soundcard to play a WAVE_FORMAT_EXTENSIBLE sound.",
+                    IDC_STATIC_BOTTOM_NOTICE_2,10,232,135,34
+    LTEXT           "Static",IDC_STATIC,10,228,140,1,SS_SUNKEN
+    LTEXT           "Static",IDC_STATIC,10,268,140,1,SS_SUNKEN
+    LTEXT           "Static",IDC_STATIC,10,189,140,1,SS_SUNKEN
+END
+
+IDD_PROPERTIES_PAGE2 DIALOG DISCARDABLE  0, 0, 446, 308
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "FL",IDC_BUTTON_I_EN_FL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,56,1,21,10
+    CONTROL         "FR",IDC_BUTTON_I_EN_FR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,77,1,20,10
+    CONTROL         "FC",IDC_BUTTON_I_EN_FC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,98,1,20,10
+    CONTROL         "LF",IDC_BUTTON_I_EN_LF,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,118,1,20,10
+    CONTROL         "BL",IDC_BUTTON_I_EN_BL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,139,1,20,10
+    CONTROL         "BR",IDC_BUTTON_I_EN_BR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,160,1,20,10
+    CONTROL         "FLC",IDC_BUTTON_I_EN_FLC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,181,1,20,10
+    CONTROL         "FRC",IDC_BUTTON_I_EN_FRC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,202,1,20,10
+    CONTROL         "SL",IDC_BUTTON_I_EN_SL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,223,1,20,10
+    CONTROL         "SR",IDC_BUTTON_I_EN_SR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,244,1,20,10
+    CONTROL         "BC",IDC_BUTTON_I_EN_BC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,265,1,20,10
+    CONTROL         "TC",IDC_BUTTON_I_EN_TC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,286,1,20,10
+    CONTROL         "TFL",IDC_BUTTON_I_EN_TFL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,307,1,20,10
+    CONTROL         "TFC",IDC_BUTTON_I_EN_TFC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,327,1,20,10
+    CONTROL         "TFR",IDC_BUTTON_I_EN_TFR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,347,1,20,10
+    CONTROL         "TBL",IDC_BUTTON_I_EN_TBL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,370,1,20,10
+    CONTROL         "TBC",IDC_BUTTON_I_EN_TBC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,390,1,20,10
+    CONTROL         "TBR",IDC_BUTTON_I_EN_TBR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,410,1,20,10
+    CONTROL         "Pre-mix input gains",IDC_CHECK_ENABLE_INPUT_GAINS,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,5,22,75,10
+    CONTROL         "Slider1",IDC_SLIDER_I_FL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,42,100,10
+    EDITTEXT        IDC_EDIT_I_FL,175,42,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_I_FLFR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,198,47,29,10
+    CONTROL         "Slider1",IDC_SLIDER_I_FR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,53,100,10
+    EDITTEXT        IDC_EDIT_I_FR,175,52,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_FC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,62,100,10
+    EDITTEXT        IDC_EDIT_I_FC,175,62,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_LF,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,72,100,10
+    EDITTEXT        IDC_EDIT_I_LF,175,72,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_BL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,82,100,10
+    EDITTEXT        IDC_EDIT_I_BL,175,82,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_I_BLBR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,198,87,29,10
+    CONTROL         "Slider1",IDC_SLIDER_I_BR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,93,100,10
+    EDITTEXT        IDC_EDIT_I_BR,175,92,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_FLC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,102,100,10
+    EDITTEXT        IDC_EDIT_I_FLC,175,102,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_I_FLCFRC,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,198,107,29,10
+    CONTROL         "Slider1",IDC_SLIDER_I_FRC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,112,100,10
+    EDITTEXT        IDC_EDIT_I_FRC,175,112,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_BC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,122,100,10
+    EDITTEXT        IDC_EDIT_I_BC,175,122,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_SL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,42,100,10
+    EDITTEXT        IDC_EDIT_I_SL,385,42,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_I_SLSR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,408,47,29,10
+    CONTROL         "Slider1",IDC_SLIDER_I_SR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,52,100,10
+    EDITTEXT        IDC_EDIT_I_SR,385,52,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_TC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,62,100,10
+    EDITTEXT        IDC_EDIT_I_TC,385,62,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_TFL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,72,100,10
+    EDITTEXT        IDC_EDIT_I_TFL,385,72,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_I_TFLTFR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,408,77,29,10
+    CONTROL         "Slider1",IDC_SLIDER_I_TFR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,82,100,10
+    EDITTEXT        IDC_EDIT_I_TFR,385,82,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_TFC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,92,100,10
+    EDITTEXT        IDC_EDIT_I_TFC,385,92,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_TBL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,102,100,10
+    EDITTEXT        IDC_EDIT_I_TBL,385,102,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_I_TBLTBR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,408,107,29,10
+    CONTROL         "Slider1",IDC_SLIDER_I_TBR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,112,100,10
+    EDITTEXT        IDC_EDIT_I_TBR,385,112,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_I_TBC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,122,100,10
+    EDITTEXT        IDC_EDIT_I_TBC,385,122,20,9,ES_AUTOHSCROLL
+    CONTROL         "Post-mix output gains",IDC_CHECK_ENABLE_OUTPUT_GAINS,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,5,139,83,10
+    CONTROL         "Slider1",IDC_SLIDER_O_FL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,160,100,10
+    EDITTEXT        IDC_EDIT_O_FL,175,159,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_O_FLFR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,198,164,29,10
+    CONTROL         "Slider1",IDC_SLIDER_O_FR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,171,100,10
+    EDITTEXT        IDC_EDIT_O_FR,175,169,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_FC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,181,100,10
+    EDITTEXT        IDC_EDIT_O_FC,175,179,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_LF,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,190,100,10
+    EDITTEXT        IDC_EDIT_O_LF,175,189,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_BL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,200,100,10
+    EDITTEXT        IDC_EDIT_O_BL,175,199,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_O_BLBR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,198,204,29,10
+    CONTROL         "Slider1",IDC_SLIDER_O_BR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,211,100,10
+    EDITTEXT        IDC_EDIT_O_BR,175,209,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_FLC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,221,100,10
+    EDITTEXT        IDC_EDIT_O_FLC,175,219,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_O_FLCFRC,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,198,224,29,10
+    CONTROL         "Slider1",IDC_SLIDER_O_FRC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,230,100,10
+    EDITTEXT        IDC_EDIT_O_FRC,175,229,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_BC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,75,240,100,10
+    EDITTEXT        IDC_EDIT_O_BC,175,239,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_SL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,159,100,10
+    EDITTEXT        IDC_EDIT_O_SL,385,159,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_O_SLSR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,407,164,29,10
+    CONTROL         "Slider1",IDC_SLIDER_O_SR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,169,100,10
+    EDITTEXT        IDC_EDIT_O_SR,385,169,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_TC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,179,100,10
+    EDITTEXT        IDC_EDIT_O_TC,385,179,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_TFL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,189,100,10
+    EDITTEXT        IDC_EDIT_O_TFL,385,189,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_O_TFLTFR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,407,194,29,10
+    CONTROL         "Slider1",IDC_SLIDER_O_TFR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,199,100,10
+    EDITTEXT        IDC_EDIT_O_TFR,385,199,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_TFC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,209,100,10
+    EDITTEXT        IDC_EDIT_O_TFC,385,209,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_TBL,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,219,100,10
+    EDITTEXT        IDC_EDIT_O_TBL,385,219,20,9,ES_AUTOHSCROLL
+    CONTROL         "Join",IDC_CHECK_JOIN_O_TBLTBR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,407,224,29,10
+    CONTROL         "Slider1",IDC_SLIDER_O_TBR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,229,100,10
+    EDITTEXT        IDC_EDIT_O_TBR,385,229,20,9,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDER_O_TBC,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,285,239,100,10
+    EDITTEXT        IDC_EDIT_O_TBC,385,239,20,9,ES_AUTOHSCROLL
+    CONTROL         "FL",IDC_BUTTON_O_EN_FL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,56,254,21,10
+    CONTROL         "FR",IDC_BUTTON_O_EN_FR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,77,254,20,10
+    CONTROL         "FC",IDC_BUTTON_O_EN_FC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,98,254,20,10
+    CONTROL         "LF",IDC_BUTTON_O_EN_LF,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,118,254,20,10
+    CONTROL         "BL",IDC_BUTTON_O_EN_BL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,139,254,20,10
+    CONTROL         "BR",IDC_BUTTON_O_EN_BR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,160,254,20,10
+    CONTROL         "FLC",IDC_BUTTON_O_EN_FLC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,181,254,20,10
+    CONTROL         "FRC",IDC_BUTTON_O_EN_FRC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,202,254,20,10
+    CONTROL         "SL",IDC_BUTTON_O_EN_SL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,223,254,20,10
+    CONTROL         "SR",IDC_BUTTON_O_EN_SR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,244,254,20,10
+    CONTROL         "BC",IDC_BUTTON_O_EN_BC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,265,254,20,10
+    CONTROL         "TC",IDC_BUTTON_O_EN_TC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,286,254,20,10
+    CONTROL         "TFL",IDC_BUTTON_O_EN_TFL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,307,254,20,10
+    CONTROL         "TFC",IDC_BUTTON_O_EN_TFC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,327,254,20,10
+    CONTROL         "TFR",IDC_BUTTON_O_EN_TFR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,347,254,20,10
+    CONTROL         "TBL",IDC_BUTTON_O_EN_TBL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,370,254,20,10
+    CONTROL         "TBC",IDC_BUTTON_O_EN_TBC,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,390,254,20,10
+    CONTROL         "TBR",IDC_BUTTON_O_EN_TBR,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE | WS_TABSTOP,410,254,20,10
+    CONTROL         "Master volume",IDC_CHECK_ENABLE_MASTER_VOLUME,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,5,269,62,10
+    CONTROL         "Slider2",IDC_SLIDER_MASTER_VOLUME,"msctls_trackbar32",
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,70,266,160,15
+    EDITTEXT        IDC_EDIT_MASTER_VOLUME,230,266,30,14,ES_AUTOHSCROLL
+    LTEXT           "Gains: allowed values range from 0% to 400% for all gains and master volume, with a value of 100 being transparent of course.",
+                    IDC_STATIC,5,13,400,8
+    GROUPBOX        "Input gains",IDC_STATIC_FRAME_INPUT_GAINS,5,32,435,104
+    LTEXT           "Front left",IDC_STATIC_I_FL,10,42,65,8
+    LTEXT           "Front right",IDC_STATIC_I_FR,10,52,65,8
+    LTEXT           "Front center",IDC_STATIC_I_FC,10,62,65,8
+    LTEXT           "Low frequency",IDC_STATIC_I_LF,10,72,65,8
+    LTEXT           "Back left",IDC_STATIC_I_BL,10,82,65,8
+    LTEXT           "Back right",IDC_STATIC_I_BR,10,92,65,8
+    LTEXT           "Front left of center",IDC_STATIC_I_FLC,10,102,65,8
+    LTEXT           "Front right of center",IDC_STATIC_I_FRC,10,112,65,8
+    LTEXT           "Back center",IDC_STATIC_I_BC,10,122,65,8
+    GROUPBOX        "Output gains",IDC_STATIC_FRAME_OUTPUT_GAINS,5,149,435,
+                    104
+    LTEXT           "Front left",IDC_STATIC_O_FL,10,159,65,8
+    LTEXT           "Front right",IDC_STATIC_O_FR,10,169,65,8
+    LTEXT           "Front center",IDC_STATIC_O_FC,10,179,65,8
+    LTEXT           "Low frequency",IDC_STATIC_O_LF,10,189,65,8
+    LTEXT           "Back left",IDC_STATIC_O_BL,10,199,65,8
+    LTEXT           "Back right",IDC_STATIC_O_BR,10,209,65,8
+    LTEXT           "Front left of center",IDC_STATIC_O_FLC,10,219,65,8
+    LTEXT           "Front right of center",IDC_STATIC_O_FRC,10,229,65,8
+    LTEXT           "Back center",IDC_STATIC_O_BC,10,239,65,8
+    LTEXT           "Side left",IDC_STATIC_O_SL,230,159,55,8
+    LTEXT           "Side right",IDC_STATIC_O_SR,230,169,55,8
+    LTEXT           "Top center",IDC_STATIC_O_TC,230,179,55,8
+    LTEXT           "Top front left",IDC_STATIC_O_TFL,230,189,55,8
+    LTEXT           "Top front right",IDC_STATIC_O_TFR,230,199,55,8
+    LTEXT           "Top front center",IDC_STATIC_O_TFC,230,209,55,8
+    LTEXT           "Top back left",IDC_STATIC_O_TBL,230,219,55,8
+    LTEXT           "Top back right",IDC_STATIC_O_TBR,230,229,55,8
+    LTEXT           "Top back center",IDC_STATIC_O_TBC,230,239,55,8
+    LTEXT           "Side left",IDC_STATIC_I_SL,230,42,55,8
+    LTEXT           "Side right",IDC_STATIC_I_SR,230,52,55,8
+    LTEXT           "Top center",IDC_STATIC_I_TC,230,62,55,8
+    LTEXT           "Top front left",IDC_STATIC_I_TFL,230,72,55,8
+    LTEXT           "Top front right",IDC_STATIC_I_TFR,230,82,55,8
+    LTEXT           "Top front center",IDC_STATIC_I_TFC,230,92,55,8
+    LTEXT           "Top back left",IDC_STATIC_I_TBL,230,102,55,8
+    LTEXT           "Top back right",IDC_STATIC_I_TBR,230,112,55,8
+    LTEXT           "Top back center",IDC_STATIC_I_TBC,230,122,55,8
+    LTEXT           "All mixing is performed in 64 bits thus is lossless and clipping-free. The only clipping happens at the end after applying the Master Volume.",
+                    IDC_STATIC,5,282,436,8
+    LTEXT           "At that point some clipping could occur even if you have not changed any input or output gains, because summing the inputs together could exceed the available output bits. Lower the master volume if you need to prevent this.",
+                    IDC_STATIC,5,290,436,16
+    LTEXT           "Output enable",IDC_STATIC,5,254,46,8
+    LTEXT           "Input enable",IDC_STATIC,5,1,40,8
+END
+
+IDD_PROPERTIES_PAGE3 DIALOG DISCARDABLE  0, 0, 446, 304
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Use internal mix matrix",IDC_RADIO_USE_INTERNAL_MATRIX,
+                    "Button",BS_AUTORADIOBUTTON | WS_GROUP,5,5,85,10
+    CONTROL         "Use custom mix matrix from file (full path please)",
+                    IDC_RADIO_USE_CUSTOM_MATRIX,"Button",BS_AUTORADIOBUTTON,
+                    5,15,165,10
+    EDITTEXT        IDC_EDIT_CUSTOM_MATRIX_FULL_FILENAME,175,13,215,14,
+                    ES_AUTOHSCROLL
+    PUSHBUTTON      "Browse",IDC_BUTTON_BROWSE,395,13,40,14
+    PUSHBUTTON      "(Re)Load matrix now",IDC_BUTTON_RELOAD_MATRIX_NOW,175,
+                    29,215,10
+    LTEXT           "Format of the mix matrix file:",IDC_STATIC,5,43,430,8
+    LTEXT           "It must be a text file with at most 18 lines, and at most 18 floating point numbers in each line.",
+                    IDC_STATIC,5,53,430,8
+    LTEXT           "A value of 1 (or 1.00000... ) will be transparent (no amplification nor reduction). A value between 0 and 1 reduces the volume and a value greater than 1 increases the volume. Negative numbers (e.g. -1.32000 ) will invert the phase.",
+                    IDC_STATIC,5,80,430,17
+    LTEXT           "The order of speakers for both X and Y coordinates of the matrix is the standard Windows defined: FL FR FC LF BL BR FLC FRC BC SL SR TC TFL TFC TFR TBL TBC TBR (the same you can see in the Gains property page of this filter).",
+                    IDC_STATIC,5,100,430,17
+    LTEXT           "You can imagine to have the inputs coming from the top of the matrix and the outputs at the left of it.",
+                    IDC_STATIC,5,118,430,8
+    LTEXT           "If the matrix has got less than 18 lines, or some line has got less than 18 columns, all the rest is assumed to be zero. So if you want to make a custom matrix for downmixing 5.1 input to stereo, you only need to type the first two columns and six rows.",
+                    IDC_STATIC,5,145,430,16
+    LTEXT           "The inputs are multiplied by the values in the columns of the matrix and sent left to the outputs. For example a 1.50000 value in the second column third row means that the FR input is multiplied by 1.5 and added to the FC output. ",
+                    IDC_STATIC,5,126,430,17
+    LTEXT           "You can type your comments in the file, after the 18th line. The first comment line must not be before the 19th line even if the matrix is small and some of the above lines are blank.",
+                    IDC_STATIC,5,164,430,16
+    LTEXT           "The floating point numbers must use the dot (English notation) to separate decimal values and exponent is not supported.\nYou must separate the floating point numbers on the same line with one or more tab charachters and/or whitespaces.",
+                    IDC_STATIC,5,61,430,16
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_TITLE_PROPERTY_PAGE1 "General"
+    IDS_TITLE_PROPERTY_PAGE2 "I/O Enable and Gains"
+    IDS_TITLE_PROPERTY_PAGE3 "Mix matrix"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

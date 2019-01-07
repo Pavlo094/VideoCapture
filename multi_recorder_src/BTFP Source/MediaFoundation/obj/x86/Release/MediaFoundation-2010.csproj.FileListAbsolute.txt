@@ -1,0 +1,6 @@
+E:\multi_recorder_src\BTFP Source\MediaFoundation\bin\x86\Release\MediaFoundation.dll
+E:\multi_recorder_src\BTFP Source\MediaFoundation\bin\x86\Release\MediaFoundation.pdb
+E:\multi_recorder_src\BTFP Source\MediaFoundation\obj\x86\Release\MediaFoundation-2010.csprojAssemblyReference.cache
+E:\multi_recorder_src\BTFP Source\MediaFoundation\obj\x86\Release\MediaFoundation-2010.csproj.CoreCompileInputs.cache
+E:\multi_recorder_src\BTFP Source\MediaFoundation\obj\x86\Release\MediaFoundation.dll
+E:\multi_recorder_src\BTFP Source\MediaFoundation\obj\x86\Release\MediaFoundation.pdb
